@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Lighting Control</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 30px;
+            text-align: center;
+            background-color: #f7f7f7;
+        }
+
+        button, select {
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+        }
+
+        table {
+            width: 70%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+
+        td {
+            background-color: #fff;
+        }
+
+        .btn {
+            background-color: #007BFF;
+            color: #FFF;
+            border-radius: 4px;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        .controls {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Smart Lighting Control</h1>
+
+    <div class="controls">
+        <button onclick="generateMockLights()" class="btn">Generate Mock Lights</button>
+        <br>
+        <select id="floorSelect">
+            <!-- Assuming 10 floors -->
+            <option value="1">Floor 1</option>
+            <option value="2">Floor 2</option>
+            <!-- ... -->
+            <option value="10">Floor 10</option>
+        </select>
+        <button onclick="viewLightsByFloor()" class="btn">View Lights By Floor</button>
+        <br>
+        <select id="roomSelect">
+            <!-- Assuming 10 rooms -->
+            <option value="Room 1">Room 1</option>
+            <option value="Room 2">Room 2</option>
+            <!-- ... -->
+            <option value="Room 10">Room 10</option>
+        </select>
+        <button onclick="viewLightsByRoom()" class="btn">View Lights By Room</button>
+        <br>
+        <input type="number" id="lightId" placeholder="Light ID">
+        <button onclick="toggleLight()" class="btn">Toggle Light</button>
+    </div>
+
+    <table id="lightTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Status</th>
+                <th>Floor</th>
+                <th>Room</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Filled dynamically using JavaScript -->
+        </tbody>
+    </table>
+
+    <script>
+        function generateMockLights() {
+            fetch('/addLights', {
+                method: 'POST'
+            }).then(res => res.text()).then(data => {
+                alert(data);
+                location.reload(); // Reload the page to see the changes
+            });
+        }
+
+        function viewLightsByFloor() {
+            const floor = document.getElementById('floorSelect').value;
+            fetch(`/getLightsByFloor?floor=${floor}`)
+                .then(res => res.json())
+                .then(data => displayLights(data));
+        }
+
+        function viewLightsByRoom() {
+            const room = document.getElementById('roomSelect').value;
+            fetch(`/getLightsByRoom?room=${room}`)
+                .then(res => res.json())
+                .then(data => displayLights(data));
+        }
+
+        function toggleLight() {
+            const lightId = document.getElementById('lightId').value;
+            fetch(`/toggleLight?id=${lightId}`, {
+                method: 'PUT'
+            }).then(res => res.text()).then(data => {
+                alert(data);
+                location.reload(); // Reload the page to see the changes
+            });
+        }
+
+        function displayLights(lights) {
+            const tbody = document.getElementById('lightTable').querySelector('tbody');
+            tbody.innerHTML = ''; // Clear previous data
+            lights.forEach(light => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${light.id}</td>
+                    <td>${light.status}</td>
+                    <td>${light.floor}</td>
+                    <td>${light.room}</td>
+                `;
+                tbody.appendChild(row);
+            });
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,6002 @@
+[
+  {
+    "light_id": 1,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#aca6a"
+  },
+  {
+    "light_id": 2,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#88b8f9"
+  },
+  {
+    "light_id": 3,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#e0f024"
+  },
+  {
+    "light_id": 4,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#6e2b77"
+  },
+  {
+    "light_id": 5,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#3e8db9"
+  },
+  {
+    "light_id": 6,
+    "status": "off",
+    "brightness": "43%",
+    "color": "#bf1165"
+  },
+  {
+    "light_id": 7,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#fc50e5"
+  },
+  {
+    "light_id": 8,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#2e3dce"
+  },
+  {
+    "light_id": 9,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#b15bea"
+  },
+  {
+    "light_id": 10,
+    "status": "off",
+    "brightness": "67%",
+    "color": "#d07fd0"
+  },
+  {
+    "light_id": 11,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#586246"
+  },
+  {
+    "light_id": 12,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#564157"
+  },
+  {
+    "light_id": 13,
+    "status": "on",
+    "brightness": "3%",
+    "color": "#d32334"
+  },
+  {
+    "light_id": 14,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#23b8e1"
+  },
+  {
+    "light_id": 15,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#9cec51"
+  },
+  {
+    "light_id": 16,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#9d1f7a"
+  },
+  {
+    "light_id": 17,
+    "status": "on",
+    "brightness": "6%",
+    "color": "#6b1187"
+  },
+  {
+    "light_id": 18,
+    "status": "off",
+    "brightness": "53%",
+    "color": "#222124"
+  },
+  {
+    "light_id": 19,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#7381a9"
+  },
+  {
+    "light_id": 20,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#bd4b5"
+  },
+  {
+    "light_id": 21,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#5ea0b9"
+  },
+  {
+    "light_id": 22,
+    "status": "on",
+    "brightness": "73%",
+    "color": "#e30314"
+  },
+  {
+    "light_id": 23,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#ea35b3"
+  },
+  {
+    "light_id": 24,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#f2d3b0"
+  },
+  {
+    "light_id": 25,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#76add9"
+  },
+  {
+    "light_id": 26,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#522c95"
+  },
+  {
+    "light_id": 27,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#11a8a3"
+  },
+  {
+    "light_id": 28,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#64bdd2"
+  },
+  {
+    "light_id": 29,
+    "status": "on",
+    "brightness": "57%",
+    "color": "#4f6c60"
+  },
+  {
+    "light_id": 30,
+    "status": "on",
+    "brightness": "64%",
+    "color": "#db4dad"
+  },
+  {
+    "light_id": 31,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#c53626"
+  },
+  {
+    "light_id": 32,
+    "status": "off",
+    "brightness": "44%",
+    "color": "#bf6e65"
+  },
+  {
+    "light_id": 33,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#7e178d"
+  },
+  {
+    "light_id": 34,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#71bc9"
+  },
+  {
+    "light_id": 35,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#89d858"
+  },
+  {
+    "light_id": 36,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#bfcb1b"
+  },
+  {
+    "light_id": 37,
+    "status": "on",
+    "brightness": "56%",
+    "color": "#80ea64"
+  },
+  {
+    "light_id": 38,
+    "status": "off",
+    "brightness": "85%",
+    "color": "#9ad4a2"
+  },
+  {
+    "light_id": 39,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#203bf"
+  },
+  {
+    "light_id": 40,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#641305"
+  },
+  {
+    "light_id": 41,
+    "status": "off",
+    "brightness": "79%",
+    "color": "#76c2c0"
+  },
+  {
+    "light_id": 42,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#71f89d"
+  },
+  {
+    "light_id": 43,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#4714e5"
+  },
+  {
+    "light_id": 44,
+    "status": "off",
+    "brightness": "95%",
+    "color": "#c89f9a"
+  },
+  {
+    "light_id": 45,
+    "status": "off",
+    "brightness": "70%",
+    "color": "#cbbb9e"
+  },
+  {
+    "light_id": 46,
+    "status": "off",
+    "brightness": "67%",
+    "color": "#a31ae2"
+  },
+  {
+    "light_id": 47,
+    "status": "on",
+    "brightness": "27%",
+    "color": "#afc041"
+  },
+  {
+    "light_id": 48,
+    "status": "on",
+    "brightness": "40%",
+    "color": "#6df903"
+  },
+  {
+    "light_id": 49,
+    "status": "off",
+    "brightness": "98%",
+    "color": "#304ca6"
+  },
+  {
+    "light_id": 50,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#242ff2"
+  },
+  {
+    "light_id": 51,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#a192d5"
+  },
+  {
+    "light_id": 52,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#537b01"
+  },
+  {
+    "light_id": 53,
+    "status": "on",
+    "brightness": "56%",
+    "color": "#3f8b2b"
+  },
+  {
+    "light_id": 54,
+    "status": "off",
+    "brightness": "73%",
+    "color": "#49b02d"
+  },
+  {
+    "light_id": 55,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#c4b4f0"
+  },
+  {
+    "light_id": 56,
+    "status": "off",
+    "brightness": "85%",
+    "color": "#c61956"
+  },
+  {
+    "light_id": 57,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#b5d44b"
+  },
+  {
+    "light_id": 58,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#77f548"
+  },
+  {
+    "light_id": 59,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#11b508"
+  },
+  {
+    "light_id": 60,
+    "status": "on",
+    "brightness": "60%",
+    "color": "#3ec2b6"
+  },
+  {
+    "light_id": 61,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#3801d3"
+  },
+  {
+    "light_id": 62,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#ca6a1a"
+  },
+  {
+    "light_id": 63,
+    "status": "on",
+    "brightness": "49%",
+    "color": "#d73618"
+  },
+  {
+    "light_id": 64,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#9bad0f"
+  },
+  {
+    "light_id": 65,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#5cf174"
+  },
+  {
+    "light_id": 66,
+    "status": "on",
+    "brightness": "14%",
+    "color": "#d758bc"
+  },
+  {
+    "light_id": 67,
+    "status": "on",
+    "brightness": "81%",
+    "color": "#317015"
+  },
+  {
+    "light_id": 68,
+    "status": "off",
+    "brightness": "81%",
+    "color": "#fed424"
+  },
+  {
+    "light_id": 69,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#9674e3"
+  },
+  {
+    "light_id": 70,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#2cbd06"
+  },
+  {
+    "light_id": 71,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#1b656f"
+  },
+  {
+    "light_id": 72,
+    "status": "on",
+    "brightness": "73%",
+    "color": "#794815"
+  },
+  {
+    "light_id": 73,
+    "status": "on",
+    "brightness": "66%",
+    "color": "#fb1b17"
+  },
+  {
+    "light_id": 74,
+    "status": "on",
+    "brightness": "70%",
+    "color": "#f22c8f"
+  },
+  {
+    "light_id": 75,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#701b6b"
+  },
+  {
+    "light_id": 76,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#a1803f"
+  },
+  {
+    "light_id": 77,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#319820"
+  },
+  {
+    "light_id": 78,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#b7e25a"
+  },
+  {
+    "light_id": 79,
+    "status": "on",
+    "brightness": "59%",
+    "color": "#c41671"
+  },
+  {
+    "light_id": 80,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#93b1eb"
+  },
+  {
+    "light_id": 81,
+    "status": "on",
+    "brightness": "73%",
+    "color": "#8e4c0f"
+  },
+  {
+    "light_id": 82,
+    "status": "off",
+    "brightness": "40%",
+    "color": "#eb3d6f"
+  },
+  {
+    "light_id": 83,
+    "status": "off",
+    "brightness": "10%",
+    "color": "#ab27ad"
+  },
+  {
+    "light_id": 84,
+    "status": "off",
+    "brightness": "29%",
+    "color": "#cad5bb"
+  },
+  {
+    "light_id": 85,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#7c7dac"
+  },
+  {
+    "light_id": 86,
+    "status": "on",
+    "brightness": "63%",
+    "color": "#c1199e"
+  },
+  {
+    "light_id": 87,
+    "status": "on",
+    "brightness": "58%",
+    "color": "#913935"
+  },
+  {
+    "light_id": 88,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#a65234"
+  },
+  {
+    "light_id": 89,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#324dd3"
+  },
+  {
+    "light_id": 90,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#237317"
+  },
+  {
+    "light_id": 91,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#34eeee"
+  },
+  {
+    "light_id": 92,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#b45533"
+  },
+  {
+    "light_id": 93,
+    "status": "off",
+    "brightness": "96%",
+    "color": "#eb7518"
+  },
+  {
+    "light_id": 94,
+    "status": "off",
+    "brightness": "34%",
+    "color": "#15bcef"
+  },
+  {
+    "light_id": 95,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#c5a29b"
+  },
+  {
+    "light_id": 96,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#1cc9b0"
+  },
+  {
+    "light_id": 97,
+    "status": "off",
+    "brightness": "91%",
+    "color": "#9c1e34"
+  },
+  {
+    "light_id": 98,
+    "status": "on",
+    "brightness": "52%",
+    "color": "#252e9b"
+  },
+  {
+    "light_id": 99,
+    "status": "on",
+    "brightness": "2%",
+    "color": "#3aa61a"
+  },
+  {
+    "light_id": 100,
+    "status": "off",
+    "brightness": "56%",
+    "color": "#519a53"
+  },
+  {
+    "light_id": 101,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#63d331"
+  },
+  {
+    "light_id": 102,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#b5d75b"
+  },
+  {
+    "light_id": 103,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#ebe017"
+  },
+  {
+    "light_id": 104,
+    "status": "on",
+    "brightness": "42%",
+    "color": "#91882a"
+  },
+  {
+    "light_id": 105,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#53af8"
+  },
+  {
+    "light_id": 106,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#74a052"
+  },
+  {
+    "light_id": 107,
+    "status": "on",
+    "brightness": "3%",
+    "color": "#d20746"
+  },
+  {
+    "light_id": 108,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#410d52"
+  },
+  {
+    "light_id": 109,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#426916"
+  },
+  {
+    "light_id": 110,
+    "status": "on",
+    "brightness": "65%",
+    "color": "#eb5a3"
+  },
+  {
+    "light_id": 111,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#56e9d7"
+  },
+  {
+    "light_id": 112,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#aa1284"
+  },
+  {
+    "light_id": 113,
+    "status": "on",
+    "brightness": "90%",
+    "color": "#ab8fd1"
+  },
+  {
+    "light_id": 114,
+    "status": "on",
+    "brightness": "2%",
+    "color": "#8c39fa"
+  },
+  {
+    "light_id": 115,
+    "status": "off",
+    "brightness": "70%",
+    "color": "#458fdc"
+  },
+  {
+    "light_id": 116,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#8f8f55"
+  },
+  {
+    "light_id": 117,
+    "status": "on",
+    "brightness": "1%",
+    "color": "#b31f92"
+  },
+  {
+    "light_id": 118,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#bfddf6"
+  },
+  {
+    "light_id": 119,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#77af90"
+  },
+  {
+    "light_id": 120,
+    "status": "on",
+    "brightness": "49%",
+    "color": "#e829f8"
+  },
+  {
+    "light_id": 121,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#debce0"
+  },
+  {
+    "light_id": 122,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#22693"
+  },
+  {
+    "light_id": 123,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#437dad"
+  },
+  {
+    "light_id": 124,
+    "status": "on",
+    "brightness": "95%",
+    "color": "#ac4461"
+  },
+  {
+    "light_id": 125,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#9df483"
+  },
+  {
+    "light_id": 126,
+    "status": "on",
+    "brightness": "20%",
+    "color": "#b69cc1"
+  },
+  {
+    "light_id": 127,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#9fd9d7"
+  },
+  {
+    "light_id": 128,
+    "status": "on",
+    "brightness": "47%",
+    "color": "#ac7a20"
+  },
+  {
+    "light_id": 129,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#6d44ab"
+  },
+  {
+    "light_id": 130,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#2a3ec3"
+  },
+  {
+    "light_id": 131,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#a30bee"
+  },
+  {
+    "light_id": 132,
+    "status": "on",
+    "brightness": "43%",
+    "color": "#d066ce"
+  },
+  {
+    "light_id": 133,
+    "status": "on",
+    "brightness": "49%",
+    "color": "#2d07e6"
+  },
+  {
+    "light_id": 134,
+    "status": "on",
+    "brightness": "18%",
+    "color": "#ab8eab"
+  },
+  {
+    "light_id": 135,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#52f7f5"
+  },
+  {
+    "light_id": 136,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#224751"
+  },
+  {
+    "light_id": 137,
+    "status": "off",
+    "brightness": "43%",
+    "color": "#edc5bb"
+  },
+  {
+    "light_id": 138,
+    "status": "off",
+    "brightness": "63%",
+    "color": "#cffef8"
+  },
+  {
+    "light_id": 139,
+    "status": "on",
+    "brightness": "78%",
+    "color": "#1df675"
+  },
+  {
+    "light_id": 140,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#299558"
+  },
+  {
+    "light_id": 141,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#36c41f"
+  },
+  {
+    "light_id": 142,
+    "status": "on",
+    "brightness": "46%",
+    "color": "#15bcf8"
+  },
+  {
+    "light_id": 143,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#6d40f1"
+  },
+  {
+    "light_id": 144,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#4589f1"
+  },
+  {
+    "light_id": 145,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#f1604c"
+  },
+  {
+    "light_id": 146,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#8a773b"
+  },
+  {
+    "light_id": 147,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#4d5fce"
+  },
+  {
+    "light_id": 148,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#fc6165"
+  },
+  {
+    "light_id": 149,
+    "status": "on",
+    "brightness": "49%",
+    "color": "#60f862"
+  },
+  {
+    "light_id": 150,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#69ffb0"
+  },
+  {
+    "light_id": 151,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#c5492"
+  },
+  {
+    "light_id": 152,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#bc6c21"
+  },
+  {
+    "light_id": 153,
+    "status": "off",
+    "brightness": "45%",
+    "color": "#8f462e"
+  },
+  {
+    "light_id": 154,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#bca4d0"
+  },
+  {
+    "light_id": 155,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#a4a6ad"
+  },
+  {
+    "light_id": 156,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#8ec4a2"
+  },
+  {
+    "light_id": 157,
+    "status": "on",
+    "brightness": "8%",
+    "color": "#fd753c"
+  },
+  {
+    "light_id": 158,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#49b74c"
+  },
+  {
+    "light_id": 159,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#b98b0c"
+  },
+  {
+    "light_id": 160,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#316f5d"
+  },
+  {
+    "light_id": 161,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#d42221"
+  },
+  {
+    "light_id": 162,
+    "status": "on",
+    "brightness": "50%",
+    "color": "#3eb6e3"
+  },
+  {
+    "light_id": 163,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#4b863d"
+  },
+  {
+    "light_id": 164,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#542dda"
+  },
+  {
+    "light_id": 165,
+    "status": "off",
+    "brightness": "57%",
+    "color": "#d59d24"
+  },
+  {
+    "light_id": 166,
+    "status": "on",
+    "brightness": "8%",
+    "color": "#fc07e"
+  },
+  {
+    "light_id": 167,
+    "status": "off",
+    "brightness": "3%",
+    "color": "#86c0fe"
+  },
+  {
+    "light_id": 168,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#e15cbb"
+  },
+  {
+    "light_id": 169,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#1d4b39"
+  },
+  {
+    "light_id": 170,
+    "status": "on",
+    "brightness": "81%",
+    "color": "#ead8cb"
+  },
+  {
+    "light_id": 171,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#2f2c44"
+  },
+  {
+    "light_id": 172,
+    "status": "on",
+    "brightness": "14%",
+    "color": "#3b9f2c"
+  },
+  {
+    "light_id": 173,
+    "status": "off",
+    "brightness": "49%",
+    "color": "#8954e6"
+  },
+  {
+    "light_id": 174,
+    "status": "off",
+    "brightness": "54%",
+    "color": "#f3a44"
+  },
+  {
+    "light_id": 175,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#4c40dc"
+  },
+  {
+    "light_id": 176,
+    "status": "off",
+    "brightness": "73%",
+    "color": "#91d53f"
+  },
+  {
+    "light_id": 177,
+    "status": "on",
+    "brightness": "57%",
+    "color": "#1963a5"
+  },
+  {
+    "light_id": 178,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#772816"
+  },
+  {
+    "light_id": 179,
+    "status": "off",
+    "brightness": "7%",
+    "color": "#dd6f67"
+  },
+  {
+    "light_id": 180,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#a3cc9e"
+  },
+  {
+    "light_id": 181,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#218dc0"
+  },
+  {
+    "light_id": 182,
+    "status": "on",
+    "brightness": "19%",
+    "color": "#b674b2"
+  },
+  {
+    "light_id": 183,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#4cb548"
+  },
+  {
+    "light_id": 184,
+    "status": "on",
+    "brightness": "90%",
+    "color": "#8a1029"
+  },
+  {
+    "light_id": 185,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#15743a"
+  },
+  {
+    "light_id": 186,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#fe97c3"
+  },
+  {
+    "light_id": 187,
+    "status": "on",
+    "brightness": "50%",
+    "color": "#2c38bf"
+  },
+  {
+    "light_id": 188,
+    "status": "on",
+    "brightness": "36%",
+    "color": "#d0cd88"
+  },
+  {
+    "light_id": 189,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#da46ad"
+  },
+  {
+    "light_id": 190,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#dc6773"
+  },
+  {
+    "light_id": 191,
+    "status": "on",
+    "brightness": "21%",
+    "color": "#b29c50"
+  },
+  {
+    "light_id": 192,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#d1de32"
+  },
+  {
+    "light_id": 193,
+    "status": "on",
+    "brightness": "59%",
+    "color": "#da88f1"
+  },
+  {
+    "light_id": 194,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#ca97d3"
+  },
+  {
+    "light_id": 195,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#193fdd"
+  },
+  {
+    "light_id": 196,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#69d120"
+  },
+  {
+    "light_id": 197,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#b6d093"
+  },
+  {
+    "light_id": 198,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#ae69e1"
+  },
+  {
+    "light_id": 199,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#e3ca60"
+  },
+  {
+    "light_id": 200,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#12d118"
+  },
+  {
+    "light_id": 201,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#4a819"
+  },
+  {
+    "light_id": 202,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#e8ca4c"
+  },
+  {
+    "light_id": 203,
+    "status": "off",
+    "brightness": "64%",
+    "color": "#61c906"
+  },
+  {
+    "light_id": 204,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#ab2d89"
+  },
+  {
+    "light_id": 205,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#f10ea6"
+  },
+  {
+    "light_id": 206,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#2d4afc"
+  },
+  {
+    "light_id": 207,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#5ff8e5"
+  },
+  {
+    "light_id": 208,
+    "status": "off",
+    "brightness": "88%",
+    "color": "#bef60"
+  },
+  {
+    "light_id": 209,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#bf44d2"
+  },
+  {
+    "light_id": 210,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#78433d"
+  },
+  {
+    "light_id": 211,
+    "status": "on",
+    "brightness": "84%",
+    "color": "#46a8d5"
+  },
+  {
+    "light_id": 212,
+    "status": "off",
+    "brightness": "74%",
+    "color": "#bfa874"
+  },
+  {
+    "light_id": 213,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#1a4c83"
+  },
+  {
+    "light_id": 214,
+    "status": "on",
+    "brightness": "91%",
+    "color": "#c2ea06"
+  },
+  {
+    "light_id": 215,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#e81d6e"
+  },
+  {
+    "light_id": 216,
+    "status": "on",
+    "brightness": "45%",
+    "color": "#403fe2"
+  },
+  {
+    "light_id": 217,
+    "status": "on",
+    "brightness": "14%",
+    "color": "#60ca3e"
+  },
+  {
+    "light_id": 218,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#95934e"
+  },
+  {
+    "light_id": 219,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#db21f1"
+  },
+  {
+    "light_id": 220,
+    "status": "off",
+    "brightness": "85%",
+    "color": "#ab12a6"
+  },
+  {
+    "light_id": 221,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#8b3be2"
+  },
+  {
+    "light_id": 222,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#31599"
+  },
+  {
+    "light_id": 223,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#6b05a3"
+  },
+  {
+    "light_id": 224,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#5868e"
+  },
+  {
+    "light_id": 225,
+    "status": "off",
+    "brightness": "96%",
+    "color": "#87c71c"
+  },
+  {
+    "light_id": 226,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#61ed04"
+  },
+  {
+    "light_id": 227,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#447c8c"
+  },
+  {
+    "light_id": 228,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#a1ff60"
+  },
+  {
+    "light_id": 229,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#760741"
+  },
+  {
+    "light_id": 230,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#dd594c"
+  },
+  {
+    "light_id": 231,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#428187"
+  },
+  {
+    "light_id": 232,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#9a61d2"
+  },
+  {
+    "light_id": 233,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#62140a"
+  },
+  {
+    "light_id": 234,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#705996"
+  },
+  {
+    "light_id": 235,
+    "status": "off",
+    "brightness": "35%",
+    "color": "#93cd75"
+  },
+  {
+    "light_id": 236,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#ff3db3"
+  },
+  {
+    "light_id": 237,
+    "status": "on",
+    "brightness": "8%",
+    "color": "#1c6970"
+  },
+  {
+    "light_id": 238,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#a7511"
+  },
+  {
+    "light_id": 239,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#fe2f3e"
+  },
+  {
+    "light_id": 240,
+    "status": "on",
+    "brightness": "91%",
+    "color": "#dc9b43"
+  },
+  {
+    "light_id": 241,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#db12e1"
+  },
+  {
+    "light_id": 242,
+    "status": "off",
+    "brightness": "46%",
+    "color": "#74f081"
+  },
+  {
+    "light_id": 243,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#e2ccd1"
+  },
+  {
+    "light_id": 244,
+    "status": "on",
+    "brightness": "42%",
+    "color": "#f7eb9c"
+  },
+  {
+    "light_id": 245,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#b47b4a"
+  },
+  {
+    "light_id": 246,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#8108ac"
+  },
+  {
+    "light_id": 247,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#5d6c7a"
+  },
+  {
+    "light_id": 248,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#b54f9c"
+  },
+  {
+    "light_id": 249,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#3595a8"
+  },
+  {
+    "light_id": 250,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#a5e106"
+  },
+  {
+    "light_id": 251,
+    "status": "off",
+    "brightness": "59%",
+    "color": "#b1cf8"
+  },
+  {
+    "light_id": 252,
+    "status": "on",
+    "brightness": "66%",
+    "color": "#bdd55f"
+  },
+  {
+    "light_id": 253,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#8e1408"
+  },
+  {
+    "light_id": 254,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#97bba3"
+  },
+  {
+    "light_id": 255,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#9768bd"
+  },
+  {
+    "light_id": 256,
+    "status": "on",
+    "brightness": "20%",
+    "color": "#8fdcd4"
+  },
+  {
+    "light_id": 257,
+    "status": "off",
+    "brightness": "43%",
+    "color": "#1bd71d"
+  },
+  {
+    "light_id": 258,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#588438"
+  },
+  {
+    "light_id": 259,
+    "status": "off",
+    "brightness": "85%",
+    "color": "#2589d6"
+  },
+  {
+    "light_id": 260,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#765bf2"
+  },
+  {
+    "light_id": 261,
+    "status": "on",
+    "brightness": "35%",
+    "color": "#5504c9"
+  },
+  {
+    "light_id": 262,
+    "status": "off",
+    "brightness": "0%",
+    "color": "#a42eb4"
+  },
+  {
+    "light_id": 263,
+    "status": "on",
+    "brightness": "20%",
+    "color": "#430467"
+  },
+  {
+    "light_id": 264,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#44019"
+  },
+  {
+    "light_id": 265,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#9d6b7"
+  },
+  {
+    "light_id": 266,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#722be"
+  },
+  {
+    "light_id": 267,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#7d2e6a"
+  },
+  {
+    "light_id": 268,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#c9dcf6"
+  },
+  {
+    "light_id": 269,
+    "status": "off",
+    "brightness": "56%",
+    "color": "#df6cd6"
+  },
+  {
+    "light_id": 270,
+    "status": "on",
+    "brightness": "15%",
+    "color": "#ae911a"
+  },
+  {
+    "light_id": 271,
+    "status": "off",
+    "brightness": "93%",
+    "color": "#5b4b81"
+  },
+  {
+    "light_id": 272,
+    "status": "off",
+    "brightness": "91%",
+    "color": "#9b8329"
+  },
+  {
+    "light_id": 273,
+    "status": "off",
+    "brightness": "57%",
+    "color": "#32bfdc"
+  },
+  {
+    "light_id": 274,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#45a93f"
+  },
+  {
+    "light_id": 275,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#ffc1a6"
+  },
+  {
+    "light_id": 276,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#206081"
+  },
+  {
+    "light_id": 277,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#cada80"
+  },
+  {
+    "light_id": 278,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#b5fca"
+  },
+  {
+    "light_id": 279,
+    "status": "off",
+    "brightness": "23%",
+    "color": "#b6b8a7"
+  },
+  {
+    "light_id": 280,
+    "status": "off",
+    "brightness": "11%",
+    "color": "#35b815"
+  },
+  {
+    "light_id": 281,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#bd7305"
+  },
+  {
+    "light_id": 282,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#6843f6"
+  },
+  {
+    "light_id": 283,
+    "status": "off",
+    "brightness": "71%",
+    "color": "#65f837"
+  },
+  {
+    "light_id": 284,
+    "status": "off",
+    "brightness": "95%",
+    "color": "#82d02a"
+  },
+  {
+    "light_id": 285,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#452a05"
+  },
+  {
+    "light_id": 286,
+    "status": "off",
+    "brightness": "87%",
+    "color": "#625258"
+  },
+  {
+    "light_id": 287,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#a18475"
+  },
+  {
+    "light_id": 288,
+    "status": "off",
+    "brightness": "46%",
+    "color": "#4c452c"
+  },
+  {
+    "light_id": 289,
+    "status": "on",
+    "brightness": "9%",
+    "color": "#305f78"
+  },
+  {
+    "light_id": 290,
+    "status": "on",
+    "brightness": "21%",
+    "color": "#3c74f4"
+  },
+  {
+    "light_id": 291,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#2c7a91"
+  },
+  {
+    "light_id": 292,
+    "status": "on",
+    "brightness": "88%",
+    "color": "#a7ce05"
+  },
+  {
+    "light_id": 293,
+    "status": "on",
+    "brightness": "78%",
+    "color": "#ab2145"
+  },
+  {
+    "light_id": 294,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#fb16c0"
+  },
+  {
+    "light_id": 295,
+    "status": "on",
+    "brightness": "35%",
+    "color": "#9f14bc"
+  },
+  {
+    "light_id": 296,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#bd0fa2"
+  },
+  {
+    "light_id": 297,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#a14b3"
+  },
+  {
+    "light_id": 298,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#f46389"
+  },
+  {
+    "light_id": 299,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#7cc095"
+  },
+  {
+    "light_id": 300,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#f9334f"
+  },
+  {
+    "light_id": 301,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#87557"
+  },
+  {
+    "light_id": 302,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#96fe28"
+  },
+  {
+    "light_id": 303,
+    "status": "on",
+    "brightness": "80%",
+    "color": "#a0be74"
+  },
+  {
+    "light_id": 304,
+    "status": "off",
+    "brightness": "90%",
+    "color": "#fb3bc6"
+  },
+  {
+    "light_id": 305,
+    "status": "off",
+    "brightness": "9%",
+    "color": "#cef857"
+  },
+  {
+    "light_id": 306,
+    "status": "off",
+    "brightness": "86%",
+    "color": "#dfad2"
+  },
+  {
+    "light_id": 307,
+    "status": "on",
+    "brightness": "36%",
+    "color": "#e8ed4a"
+  },
+  {
+    "light_id": 308,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#911f11"
+  },
+  {
+    "light_id": 309,
+    "status": "off",
+    "brightness": "99%",
+    "color": "#5ec448"
+  },
+  {
+    "light_id": 310,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#4df3ee"
+  },
+  {
+    "light_id": 311,
+    "status": "on",
+    "brightness": "64%",
+    "color": "#3c37fb"
+  },
+  {
+    "light_id": 312,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#d27ad4"
+  },
+  {
+    "light_id": 313,
+    "status": "off",
+    "brightness": "91%",
+    "color": "#af6db7"
+  },
+  {
+    "light_id": 314,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#78057d"
+  },
+  {
+    "light_id": 315,
+    "status": "on",
+    "brightness": "17%",
+    "color": "#2869da"
+  },
+  {
+    "light_id": 316,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#ab021d"
+  },
+  {
+    "light_id": 317,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#ae53ac"
+  },
+  {
+    "light_id": 318,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#b5dbf1"
+  },
+  {
+    "light_id": 319,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#bfdbb5"
+  },
+  {
+    "light_id": 320,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#3b5e71"
+  },
+  {
+    "light_id": 321,
+    "status": "off",
+    "brightness": "98%",
+    "color": "#d4671e"
+  },
+  {
+    "light_id": 322,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#d75ada"
+  },
+  {
+    "light_id": 323,
+    "status": "off",
+    "brightness": "31%",
+    "color": "#56d907"
+  },
+  {
+    "light_id": 324,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#dd7ee7"
+  },
+  {
+    "light_id": 325,
+    "status": "off",
+    "brightness": "82%",
+    "color": "#57463d"
+  },
+  {
+    "light_id": 326,
+    "status": "off",
+    "brightness": "87%",
+    "color": "#33a42d"
+  },
+  {
+    "light_id": 327,
+    "status": "on",
+    "brightness": "21%",
+    "color": "#f6a3e6"
+  },
+  {
+    "light_id": 328,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#297827"
+  },
+  {
+    "light_id": 329,
+    "status": "on",
+    "brightness": "78%",
+    "color": "#49f8c7"
+  },
+  {
+    "light_id": 330,
+    "status": "on",
+    "brightness": "9%",
+    "color": "#471fc2"
+  },
+  {
+    "light_id": 331,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#876635"
+  },
+  {
+    "light_id": 332,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#8f0954"
+  },
+  {
+    "light_id": 333,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#2ca4fb"
+  },
+  {
+    "light_id": 334,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#203cea"
+  },
+  {
+    "light_id": 335,
+    "status": "on",
+    "brightness": "73%",
+    "color": "#49272e"
+  },
+  {
+    "light_id": 336,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#6c369a"
+  },
+  {
+    "light_id": 337,
+    "status": "off",
+    "brightness": "83%",
+    "color": "#322c72"
+  },
+  {
+    "light_id": 338,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#8ad8ca"
+  },
+  {
+    "light_id": 339,
+    "status": "on",
+    "brightness": "85%",
+    "color": "#b90b09"
+  },
+  {
+    "light_id": 340,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#94f469"
+  },
+  {
+    "light_id": 341,
+    "status": "on",
+    "brightness": "22%",
+    "color": "#24ee58"
+  },
+  {
+    "light_id": 342,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#f562ec"
+  },
+  {
+    "light_id": 343,
+    "status": "off",
+    "brightness": "7%",
+    "color": "#113455"
+  },
+  {
+    "light_id": 344,
+    "status": "off",
+    "brightness": "79%",
+    "color": "#cd90f4"
+  },
+  {
+    "light_id": 345,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#392b39"
+  },
+  {
+    "light_id": 346,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#b2a759"
+  },
+  {
+    "light_id": 347,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#de6d1a"
+  },
+  {
+    "light_id": 348,
+    "status": "off",
+    "brightness": "70%",
+    "color": "#9d4302"
+  },
+  {
+    "light_id": 349,
+    "status": "off",
+    "brightness": "11%",
+    "color": "#4b6cdb"
+  },
+  {
+    "light_id": 350,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#199bf6"
+  },
+  {
+    "light_id": 351,
+    "status": "off",
+    "brightness": "96%",
+    "color": "#530f6e"
+  },
+  {
+    "light_id": 352,
+    "status": "on",
+    "brightness": "63%",
+    "color": "#866e32"
+  },
+  {
+    "light_id": 353,
+    "status": "on",
+    "brightness": "52%",
+    "color": "#311917"
+  },
+  {
+    "light_id": 354,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#f0d7f5"
+  },
+  {
+    "light_id": 355,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#321995"
+  },
+  {
+    "light_id": 356,
+    "status": "on",
+    "brightness": "2%",
+    "color": "#53c5e7"
+  },
+  {
+    "light_id": 357,
+    "status": "on",
+    "brightness": "67%",
+    "color": "#f247c3"
+  },
+  {
+    "light_id": 358,
+    "status": "on",
+    "brightness": "18%",
+    "color": "#601bd2"
+  },
+  {
+    "light_id": 359,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#436093"
+  },
+  {
+    "light_id": 360,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#de5734"
+  },
+  {
+    "light_id": 361,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#ba9def"
+  },
+  {
+    "light_id": 362,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#63928d"
+  },
+  {
+    "light_id": 363,
+    "status": "on",
+    "brightness": "81%",
+    "color": "#80fb0e"
+  },
+  {
+    "light_id": 364,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#9892fa"
+  },
+  {
+    "light_id": 365,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#9db9c"
+  },
+  {
+    "light_id": 366,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#1d95d8"
+  },
+  {
+    "light_id": 367,
+    "status": "on",
+    "brightness": "1%",
+    "color": "#cd2e80"
+  },
+  {
+    "light_id": 368,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#b18fbd"
+  },
+  {
+    "light_id": 369,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#15dd62"
+  },
+  {
+    "light_id": 370,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#24dd7f"
+  },
+  {
+    "light_id": 371,
+    "status": "off",
+    "brightness": "87%",
+    "color": "#77995b"
+  },
+  {
+    "light_id": 372,
+    "status": "on",
+    "brightness": "43%",
+    "color": "#744a6a"
+  },
+  {
+    "light_id": 373,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#271957"
+  },
+  {
+    "light_id": 374,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#4929d7"
+  },
+  {
+    "light_id": 375,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#1662ec"
+  },
+  {
+    "light_id": 376,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#50fe00"
+  },
+  {
+    "light_id": 377,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#a4ccf6"
+  },
+  {
+    "light_id": 378,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#5be2b4"
+  },
+  {
+    "light_id": 379,
+    "status": "off",
+    "brightness": "29%",
+    "color": "#849199"
+  },
+  {
+    "light_id": 380,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#ecaebd"
+  },
+  {
+    "light_id": 381,
+    "status": "off",
+    "brightness": "75%",
+    "color": "#d48554"
+  },
+  {
+    "light_id": 382,
+    "status": "off",
+    "brightness": "11%",
+    "color": "#babe91"
+  },
+  {
+    "light_id": 383,
+    "status": "off",
+    "brightness": "66%",
+    "color": "#a5c83a"
+  },
+  {
+    "light_id": 384,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#7dc557"
+  },
+  {
+    "light_id": 385,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#184f1"
+  },
+  {
+    "light_id": 386,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#cdf397"
+  },
+  {
+    "light_id": 387,
+    "status": "off",
+    "brightness": "11%",
+    "color": "#90dabe"
+  },
+  {
+    "light_id": 388,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#7a73e8"
+  },
+  {
+    "light_id": 389,
+    "status": "on",
+    "brightness": "49%",
+    "color": "#18e664"
+  },
+  {
+    "light_id": 390,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#22013"
+  },
+  {
+    "light_id": 391,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#469f6a"
+  },
+  {
+    "light_id": 392,
+    "status": "off",
+    "brightness": "97%",
+    "color": "#4b9494"
+  },
+  {
+    "light_id": 393,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#b29836"
+  },
+  {
+    "light_id": 394,
+    "status": "on",
+    "brightness": "42%",
+    "color": "#b1e9a7"
+  },
+  {
+    "light_id": 395,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#823572"
+  },
+  {
+    "light_id": 396,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#95e67d"
+  },
+  {
+    "light_id": 397,
+    "status": "off",
+    "brightness": "46%",
+    "color": "#36ae91"
+  },
+  {
+    "light_id": 398,
+    "status": "on",
+    "brightness": "38%",
+    "color": "#735542"
+  },
+  {
+    "light_id": 399,
+    "status": "off",
+    "brightness": "71%",
+    "color": "#b0bcf8"
+  },
+  {
+    "light_id": 400,
+    "status": "off",
+    "brightness": "64%",
+    "color": "#a08f6"
+  },
+  {
+    "light_id": 401,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#6f6f46"
+  },
+  {
+    "light_id": 402,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#fe848e"
+  },
+  {
+    "light_id": 403,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#3c5136"
+  },
+  {
+    "light_id": 404,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#ec8f6b"
+  },
+  {
+    "light_id": 405,
+    "status": "off",
+    "brightness": "99%",
+    "color": "#2226dc"
+  },
+  {
+    "light_id": 406,
+    "status": "on",
+    "brightness": "1%",
+    "color": "#df26f2"
+  },
+  {
+    "light_id": 407,
+    "status": "on",
+    "brightness": "37%",
+    "color": "#bb9ed3"
+  },
+  {
+    "light_id": 408,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#114cc9"
+  },
+  {
+    "light_id": 409,
+    "status": "on",
+    "brightness": "6%",
+    "color": "#7fdb3b"
+  },
+  {
+    "light_id": 410,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#9d4fa5"
+  },
+  {
+    "light_id": 411,
+    "status": "off",
+    "brightness": "54%",
+    "color": "#6f4c9c"
+  },
+  {
+    "light_id": 412,
+    "status": "on",
+    "brightness": "54%",
+    "color": "#6e15b2"
+  },
+  {
+    "light_id": 413,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#23cff8"
+  },
+  {
+    "light_id": 414,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#4a8aab"
+  },
+  {
+    "light_id": 415,
+    "status": "off",
+    "brightness": "61%",
+    "color": "#85efbd"
+  },
+  {
+    "light_id": 416,
+    "status": "off",
+    "brightness": "72%",
+    "color": "#3f27be"
+  },
+  {
+    "light_id": 417,
+    "status": "off",
+    "brightness": "91%",
+    "color": "#9b58f2"
+  },
+  {
+    "light_id": 418,
+    "status": "off",
+    "brightness": "83%",
+    "color": "#84a659"
+  },
+  {
+    "light_id": 419,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#5f47c3"
+  },
+  {
+    "light_id": 420,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#b50173"
+  },
+  {
+    "light_id": 421,
+    "status": "on",
+    "brightness": "48%",
+    "color": "#c501f4"
+  },
+  {
+    "light_id": 422,
+    "status": "off",
+    "brightness": "81%",
+    "color": "#b12e82"
+  },
+  {
+    "light_id": 423,
+    "status": "off",
+    "brightness": "66%",
+    "color": "#91922"
+  },
+  {
+    "light_id": 424,
+    "status": "off",
+    "brightness": "29%",
+    "color": "#91089d"
+  },
+  {
+    "light_id": 425,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#39f825"
+  },
+  {
+    "light_id": 426,
+    "status": "on",
+    "brightness": "52%",
+    "color": "#a0ec04"
+  },
+  {
+    "light_id": 427,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#eeef95"
+  },
+  {
+    "light_id": 428,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#52cea4"
+  },
+  {
+    "light_id": 429,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#239963"
+  },
+  {
+    "light_id": 430,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#2b43a5"
+  },
+  {
+    "light_id": 431,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#d59da6"
+  },
+  {
+    "light_id": 432,
+    "status": "off",
+    "brightness": "79%",
+    "color": "#93630"
+  },
+  {
+    "light_id": 433,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#786ae9"
+  },
+  {
+    "light_id": 434,
+    "status": "on",
+    "brightness": "64%",
+    "color": "#c63549"
+  },
+  {
+    "light_id": 435,
+    "status": "on",
+    "brightness": "9%",
+    "color": "#1da320"
+  },
+  {
+    "light_id": 436,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#206fb6"
+  },
+  {
+    "light_id": 437,
+    "status": "on",
+    "brightness": "2%",
+    "color": "#91a03c"
+  },
+  {
+    "light_id": 438,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#7560ac"
+  },
+  {
+    "light_id": 439,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#88d6b"
+  },
+  {
+    "light_id": 440,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#bad020"
+  },
+  {
+    "light_id": 441,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#1fd7e3"
+  },
+  {
+    "light_id": 442,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#fc5ebe"
+  },
+  {
+    "light_id": 443,
+    "status": "on",
+    "brightness": "18%",
+    "color": "#773508"
+  },
+  {
+    "light_id": 444,
+    "status": "off",
+    "brightness": "86%",
+    "color": "#498032"
+  },
+  {
+    "light_id": 445,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#bea9d0"
+  },
+  {
+    "light_id": 446,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#befbd0"
+  },
+  {
+    "light_id": 447,
+    "status": "on",
+    "brightness": "15%",
+    "color": "#de8700"
+  },
+  {
+    "light_id": 448,
+    "status": "on",
+    "brightness": "13%",
+    "color": "#78c3b0"
+  },
+  {
+    "light_id": 449,
+    "status": "on",
+    "brightness": "6%",
+    "color": "#eb1fc6"
+  },
+  {
+    "light_id": 450,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#a981e2"
+  },
+  {
+    "light_id": 451,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#170161"
+  },
+  {
+    "light_id": 452,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#d74282"
+  },
+  {
+    "light_id": 453,
+    "status": "off",
+    "brightness": "2%",
+    "color": "#9cb7cb"
+  },
+  {
+    "light_id": 454,
+    "status": "on",
+    "brightness": "1%",
+    "color": "#f925de"
+  },
+  {
+    "light_id": 455,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#2d6fbe"
+  },
+  {
+    "light_id": 456,
+    "status": "off",
+    "brightness": "99%",
+    "color": "#7048e4"
+  },
+  {
+    "light_id": 457,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#29b0b8"
+  },
+  {
+    "light_id": 458,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#dbca87"
+  },
+  {
+    "light_id": 459,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#faa98d"
+  },
+  {
+    "light_id": 460,
+    "status": "on",
+    "brightness": "23%",
+    "color": "#19b450"
+  },
+  {
+    "light_id": 461,
+    "status": "off",
+    "brightness": "40%",
+    "color": "#542263"
+  },
+  {
+    "light_id": 462,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#dfa3a0"
+  },
+  {
+    "light_id": 463,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#90aa9c"
+  },
+  {
+    "light_id": 464,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#8efa0d"
+  },
+  {
+    "light_id": 465,
+    "status": "off",
+    "brightness": "11%",
+    "color": "#b99b65"
+  },
+  {
+    "light_id": 466,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#85c91c"
+  },
+  {
+    "light_id": 467,
+    "status": "on",
+    "brightness": "24%",
+    "color": "#7aa3f1"
+  },
+  {
+    "light_id": 468,
+    "status": "on",
+    "brightness": "81%",
+    "color": "#44f190"
+  },
+  {
+    "light_id": 469,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#ac24e7"
+  },
+  {
+    "light_id": 470,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#f500cf"
+  },
+  {
+    "light_id": 471,
+    "status": "on",
+    "brightness": "8%",
+    "color": "#31718a"
+  },
+  {
+    "light_id": 472,
+    "status": "off",
+    "brightness": "98%",
+    "color": "#bf70bd"
+  },
+  {
+    "light_id": 473,
+    "status": "off",
+    "brightness": "3%",
+    "color": "#ae689"
+  },
+  {
+    "light_id": 474,
+    "status": "off",
+    "brightness": "19%",
+    "color": "#6045a7"
+  },
+  {
+    "light_id": 475,
+    "status": "off",
+    "brightness": "61%",
+    "color": "#f32802"
+  },
+  {
+    "light_id": 476,
+    "status": "on",
+    "brightness": "40%",
+    "color": "#1725f7"
+  },
+  {
+    "light_id": 477,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#d45c44"
+  },
+  {
+    "light_id": 478,
+    "status": "on",
+    "brightness": "90%",
+    "color": "#da4283"
+  },
+  {
+    "light_id": 479,
+    "status": "on",
+    "brightness": "44%",
+    "color": "#ccd944"
+  },
+  {
+    "light_id": 480,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#bbd350"
+  },
+  {
+    "light_id": 481,
+    "status": "on",
+    "brightness": "32%",
+    "color": "#a96b74"
+  },
+  {
+    "light_id": 482,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#b7879d"
+  },
+  {
+    "light_id": 483,
+    "status": "on",
+    "brightness": "19%",
+    "color": "#d9849e"
+  },
+  {
+    "light_id": 484,
+    "status": "on",
+    "brightness": "50%",
+    "color": "#4d7a59"
+  },
+  {
+    "light_id": 485,
+    "status": "on",
+    "brightness": "25%",
+    "color": "#e2b742"
+  },
+  {
+    "light_id": 486,
+    "status": "on",
+    "brightness": "59%",
+    "color": "#cc662b"
+  },
+  {
+    "light_id": 487,
+    "status": "off",
+    "brightness": "71%",
+    "color": "#64ee55"
+  },
+  {
+    "light_id": 488,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#6ceb58"
+  },
+  {
+    "light_id": 489,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#772fe0"
+  },
+  {
+    "light_id": 490,
+    "status": "on",
+    "brightness": "3%",
+    "color": "#c1a8fe"
+  },
+  {
+    "light_id": 491,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#eba717"
+  },
+  {
+    "light_id": 492,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#d54c00"
+  },
+  {
+    "light_id": 493,
+    "status": "off",
+    "brightness": "99%",
+    "color": "#6ec37b"
+  },
+  {
+    "light_id": 494,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#356d27"
+  },
+  {
+    "light_id": 495,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#1057c6"
+  },
+  {
+    "light_id": 496,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#9f56f2"
+  },
+  {
+    "light_id": 497,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#78dc6e"
+  },
+  {
+    "light_id": 498,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#7d98a4"
+  },
+  {
+    "light_id": 499,
+    "status": "off",
+    "brightness": "10%",
+    "color": "#56c213"
+  },
+  {
+    "light_id": 500,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#f87b59"
+  },
+  {
+    "light_id": 501,
+    "status": "off",
+    "brightness": "29%",
+    "color": "#e3f18d"
+  },
+  {
+    "light_id": 502,
+    "status": "on",
+    "brightness": "46%",
+    "color": "#cedbed"
+  },
+  {
+    "light_id": 503,
+    "status": "on",
+    "brightness": "90%",
+    "color": "#cd38d0"
+  },
+  {
+    "light_id": 504,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#4666d1"
+  },
+  {
+    "light_id": 505,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#6ef9a1"
+  },
+  {
+    "light_id": 506,
+    "status": "off",
+    "brightness": "38%",
+    "color": "#ea3fa1"
+  },
+  {
+    "light_id": 507,
+    "status": "off",
+    "brightness": "8%",
+    "color": "#2d22d5"
+  },
+  {
+    "light_id": 508,
+    "status": "on",
+    "brightness": "70%",
+    "color": "#36b36a"
+  },
+  {
+    "light_id": 509,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#880599"
+  },
+  {
+    "light_id": 510,
+    "status": "on",
+    "brightness": "19%",
+    "color": "#5c4374"
+  },
+  {
+    "light_id": 511,
+    "status": "off",
+    "brightness": "44%",
+    "color": "#5d21f3"
+  },
+  {
+    "light_id": 512,
+    "status": "off",
+    "brightness": "35%",
+    "color": "#3074b8"
+  },
+  {
+    "light_id": 513,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#377543"
+  },
+  {
+    "light_id": 514,
+    "status": "off",
+    "brightness": "46%",
+    "color": "#de8901"
+  },
+  {
+    "light_id": 515,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#1a493"
+  },
+  {
+    "light_id": 516,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#62f31f"
+  },
+  {
+    "light_id": 517,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#722941"
+  },
+  {
+    "light_id": 518,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#405ce1"
+  },
+  {
+    "light_id": 519,
+    "status": "on",
+    "brightness": "6%",
+    "color": "#8c262a"
+  },
+  {
+    "light_id": 520,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#6cb691"
+  },
+  {
+    "light_id": 521,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#993875"
+  },
+  {
+    "light_id": 522,
+    "status": "off",
+    "brightness": "39%",
+    "color": "#f3d0b3"
+  },
+  {
+    "light_id": 523,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#b3e7ec"
+  },
+  {
+    "light_id": 524,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#92e269"
+  },
+  {
+    "light_id": 525,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#b01376"
+  },
+  {
+    "light_id": 526,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#f768e1"
+  },
+  {
+    "light_id": 527,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#65fde1"
+  },
+  {
+    "light_id": 528,
+    "status": "on",
+    "brightness": "63%",
+    "color": "#fdad09"
+  },
+  {
+    "light_id": 529,
+    "status": "off",
+    "brightness": "2%",
+    "color": "#51128e"
+  },
+  {
+    "light_id": 530,
+    "status": "off",
+    "brightness": "0%",
+    "color": "#7acb9f"
+  },
+  {
+    "light_id": 531,
+    "status": "on",
+    "brightness": "50%",
+    "color": "#20ffc5"
+  },
+  {
+    "light_id": 532,
+    "status": "off",
+    "brightness": "59%",
+    "color": "#4cda4f"
+  },
+  {
+    "light_id": 533,
+    "status": "off",
+    "brightness": "64%",
+    "color": "#54854b"
+  },
+  {
+    "light_id": 534,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#b7660f"
+  },
+  {
+    "light_id": 535,
+    "status": "on",
+    "brightness": "58%",
+    "color": "#845b6a"
+  },
+  {
+    "light_id": 536,
+    "status": "on",
+    "brightness": "56%",
+    "color": "#736eb0"
+  },
+  {
+    "light_id": 537,
+    "status": "off",
+    "brightness": "14%",
+    "color": "#aa2c97"
+  },
+  {
+    "light_id": 538,
+    "status": "on",
+    "brightness": "78%",
+    "color": "#344f2f"
+  },
+  {
+    "light_id": 539,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#196b51"
+  },
+  {
+    "light_id": 540,
+    "status": "off",
+    "brightness": "89%",
+    "color": "#4f6d29"
+  },
+  {
+    "light_id": 541,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#57f264"
+  },
+  {
+    "light_id": 542,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#13027"
+  },
+  {
+    "light_id": 543,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#6dad56"
+  },
+  {
+    "light_id": 544,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#926eff"
+  },
+  {
+    "light_id": 545,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#1af7c3"
+  },
+  {
+    "light_id": 546,
+    "status": "on",
+    "brightness": "48%",
+    "color": "#fc3d9a"
+  },
+  {
+    "light_id": 547,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#9bcc9e"
+  },
+  {
+    "light_id": 548,
+    "status": "off",
+    "brightness": "87%",
+    "color": "#4625b6"
+  },
+  {
+    "light_id": 549,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#4f6f8a"
+  },
+  {
+    "light_id": 550,
+    "status": "off",
+    "brightness": "15%",
+    "color": "#154de5"
+  },
+  {
+    "light_id": 551,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#2b8ff7"
+  },
+  {
+    "light_id": 552,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#4e4623"
+  },
+  {
+    "light_id": 553,
+    "status": "off",
+    "brightness": "42%",
+    "color": "#9c724c"
+  },
+  {
+    "light_id": 554,
+    "status": "off",
+    "brightness": "2%",
+    "color": "#7946f1"
+  },
+  {
+    "light_id": 555,
+    "status": "off",
+    "brightness": "82%",
+    "color": "#4400cf"
+  },
+  {
+    "light_id": 556,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#dd55f6"
+  },
+  {
+    "light_id": 557,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#800952"
+  },
+  {
+    "light_id": 558,
+    "status": "on",
+    "brightness": "73%",
+    "color": "#274c3e"
+  },
+  {
+    "light_id": 559,
+    "status": "on",
+    "brightness": "66%",
+    "color": "#2b053c"
+  },
+  {
+    "light_id": 560,
+    "status": "on",
+    "brightness": "81%",
+    "color": "#c0b6e7"
+  },
+  {
+    "light_id": 561,
+    "status": "off",
+    "brightness": "56%",
+    "color": "#86b403"
+  },
+  {
+    "light_id": 562,
+    "status": "off",
+    "brightness": "43%",
+    "color": "#8520cc"
+  },
+  {
+    "light_id": 563,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#7e58c5"
+  },
+  {
+    "light_id": 564,
+    "status": "off",
+    "brightness": "49%",
+    "color": "#b83d5e"
+  },
+  {
+    "light_id": 565,
+    "status": "off",
+    "brightness": "34%",
+    "color": "#d0fe97"
+  },
+  {
+    "light_id": 566,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#d9fcaf"
+  },
+  {
+    "light_id": 567,
+    "status": "on",
+    "brightness": "68%",
+    "color": "#4148e1"
+  },
+  {
+    "light_id": 568,
+    "status": "off",
+    "brightness": "66%",
+    "color": "#b6fc"
+  },
+  {
+    "light_id": 569,
+    "status": "on",
+    "brightness": "13%",
+    "color": "#424d10"
+  },
+  {
+    "light_id": 570,
+    "status": "on",
+    "brightness": "62%",
+    "color": "#b51280"
+  },
+  {
+    "light_id": 571,
+    "status": "on",
+    "brightness": "35%",
+    "color": "#6574d6"
+  },
+  {
+    "light_id": 572,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#9ca432"
+  },
+  {
+    "light_id": 573,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#aa115b"
+  },
+  {
+    "light_id": 574,
+    "status": "off",
+    "brightness": "7%",
+    "color": "#cde791"
+  },
+  {
+    "light_id": 575,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#6cac3b"
+  },
+  {
+    "light_id": 576,
+    "status": "off",
+    "brightness": "21%",
+    "color": "#c9892a"
+  },
+  {
+    "light_id": 577,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#b22743"
+  },
+  {
+    "light_id": 578,
+    "status": "off",
+    "brightness": "39%",
+    "color": "#2bf3d"
+  },
+  {
+    "light_id": 579,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#2604d0"
+  },
+  {
+    "light_id": 580,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#e8893f"
+  },
+  {
+    "light_id": 581,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#bc87ed"
+  },
+  {
+    "light_id": 582,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#989fbe"
+  },
+  {
+    "light_id": 583,
+    "status": "on",
+    "brightness": "6%",
+    "color": "#d17146"
+  },
+  {
+    "light_id": 584,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#886b74"
+  },
+  {
+    "light_id": 585,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#92d41e"
+  },
+  {
+    "light_id": 586,
+    "status": "off",
+    "brightness": "14%",
+    "color": "#121e9d"
+  },
+  {
+    "light_id": 587,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#9f5c9d"
+  },
+  {
+    "light_id": 588,
+    "status": "on",
+    "brightness": "62%",
+    "color": "#4c90b0"
+  },
+  {
+    "light_id": 589,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#f6aba3"
+  },
+  {
+    "light_id": 590,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#1ec14d"
+  },
+  {
+    "light_id": 591,
+    "status": "on",
+    "brightness": "17%",
+    "color": "#2b9a0e"
+  },
+  {
+    "light_id": 592,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#b434de"
+  },
+  {
+    "light_id": 593,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#fb465e"
+  },
+  {
+    "light_id": 594,
+    "status": "off",
+    "brightness": "79%",
+    "color": "#2deaf0"
+  },
+  {
+    "light_id": 595,
+    "status": "off",
+    "brightness": "40%",
+    "color": "#b74a97"
+  },
+  {
+    "light_id": 596,
+    "status": "off",
+    "brightness": "83%",
+    "color": "#7abac5"
+  },
+  {
+    "light_id": 597,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#44a654"
+  },
+  {
+    "light_id": 598,
+    "status": "off",
+    "brightness": "20%",
+    "color": "#fa4306"
+  },
+  {
+    "light_id": 599,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#aa2bf6"
+  },
+  {
+    "light_id": 600,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#f5aab6"
+  },
+  {
+    "light_id": 601,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#13ac7"
+  },
+  {
+    "light_id": 602,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#ae2f19"
+  },
+  {
+    "light_id": 603,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#a41a6a"
+  },
+  {
+    "light_id": 604,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#697dcc"
+  },
+  {
+    "light_id": 605,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#3ea8bc"
+  },
+  {
+    "light_id": 606,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#25a7c0"
+  },
+  {
+    "light_id": 607,
+    "status": "off",
+    "brightness": "61%",
+    "color": "#70ecb5"
+  },
+  {
+    "light_id": 608,
+    "status": "on",
+    "brightness": "84%",
+    "color": "#a97a3d"
+  },
+  {
+    "light_id": 609,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#315cc1"
+  },
+  {
+    "light_id": 610,
+    "status": "on",
+    "brightness": "60%",
+    "color": "#1340f8"
+  },
+  {
+    "light_id": 611,
+    "status": "off",
+    "brightness": "42%",
+    "color": "#a48e7f"
+  },
+  {
+    "light_id": 612,
+    "status": "on",
+    "brightness": "43%",
+    "color": "#76aac0"
+  },
+  {
+    "light_id": 613,
+    "status": "off",
+    "brightness": "0%",
+    "color": "#e11731"
+  },
+  {
+    "light_id": 614,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#c4926b"
+  },
+  {
+    "light_id": 615,
+    "status": "on",
+    "brightness": "98%",
+    "color": "#20e187"
+  },
+  {
+    "light_id": 616,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#392639"
+  },
+  {
+    "light_id": 617,
+    "status": "on",
+    "brightness": "64%",
+    "color": "#ab5c73"
+  },
+  {
+    "light_id": 618,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#967eab"
+  },
+  {
+    "light_id": 619,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#970b82"
+  },
+  {
+    "light_id": 620,
+    "status": "on",
+    "brightness": "65%",
+    "color": "#3a126c"
+  },
+  {
+    "light_id": 621,
+    "status": "off",
+    "brightness": "68%",
+    "color": "#da43be"
+  },
+  {
+    "light_id": 622,
+    "status": "on",
+    "brightness": "7%",
+    "color": "#f479f0"
+  },
+  {
+    "light_id": 623,
+    "status": "off",
+    "brightness": "30%",
+    "color": "#a76ce5"
+  },
+  {
+    "light_id": 624,
+    "status": "on",
+    "brightness": "47%",
+    "color": "#9c7b52"
+  },
+  {
+    "light_id": 625,
+    "status": "off",
+    "brightness": "2%",
+    "color": "#a4d139"
+  },
+  {
+    "light_id": 626,
+    "status": "on",
+    "brightness": "30%",
+    "color": "#6c6cd8"
+  },
+  {
+    "light_id": 627,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#75b63d"
+  },
+  {
+    "light_id": 628,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#e5ef6d"
+  },
+  {
+    "light_id": 629,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#7385cc"
+  },
+  {
+    "light_id": 630,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#7aed4a"
+  },
+  {
+    "light_id": 631,
+    "status": "on",
+    "brightness": "3%",
+    "color": "#c1a1ac"
+  },
+  {
+    "light_id": 632,
+    "status": "on",
+    "brightness": "99%",
+    "color": "#b3bb89"
+  },
+  {
+    "light_id": 633,
+    "status": "on",
+    "brightness": "21%",
+    "color": "#2d73ee"
+  },
+  {
+    "light_id": 634,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#ba70f2"
+  },
+  {
+    "light_id": 635,
+    "status": "off",
+    "brightness": "97%",
+    "color": "#be9388"
+  },
+  {
+    "light_id": 636,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#56beb4"
+  },
+  {
+    "light_id": 637,
+    "status": "on",
+    "brightness": "44%",
+    "color": "#cdafc3"
+  },
+  {
+    "light_id": 638,
+    "status": "on",
+    "brightness": "9%",
+    "color": "#b731de"
+  },
+  {
+    "light_id": 639,
+    "status": "on",
+    "brightness": "83%",
+    "color": "#4520cd"
+  },
+  {
+    "light_id": 640,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#332559"
+  },
+  {
+    "light_id": 641,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#e8b9f"
+  },
+  {
+    "light_id": 642,
+    "status": "off",
+    "brightness": "3%",
+    "color": "#c2b8df"
+  },
+  {
+    "light_id": 643,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#6c8b2f"
+  },
+  {
+    "light_id": 644,
+    "status": "on",
+    "brightness": "27%",
+    "color": "#fedcb0"
+  },
+  {
+    "light_id": 645,
+    "status": "off",
+    "brightness": "19%",
+    "color": "#21933b"
+  },
+  {
+    "light_id": 646,
+    "status": "off",
+    "brightness": "89%",
+    "color": "#f3e40f"
+  },
+  {
+    "light_id": 647,
+    "status": "off",
+    "brightness": "52%",
+    "color": "#1c7462"
+  },
+  {
+    "light_id": 648,
+    "status": "on",
+    "brightness": "38%",
+    "color": "#93e310"
+  },
+  {
+    "light_id": 649,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#43c203"
+  },
+  {
+    "light_id": 650,
+    "status": "on",
+    "brightness": "48%",
+    "color": "#af7c0e"
+  },
+  {
+    "light_id": 651,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#efa2ba"
+  },
+  {
+    "light_id": 652,
+    "status": "on",
+    "brightness": "21%",
+    "color": "#cfd79a"
+  },
+  {
+    "light_id": 653,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#423e75"
+  },
+  {
+    "light_id": 654,
+    "status": "on",
+    "brightness": "45%",
+    "color": "#ce3f16"
+  },
+  {
+    "light_id": 655,
+    "status": "off",
+    "brightness": "91%",
+    "color": "#14d173"
+  },
+  {
+    "light_id": 656,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#aa7948"
+  },
+  {
+    "light_id": 657,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#e70da9"
+  },
+  {
+    "light_id": 658,
+    "status": "on",
+    "brightness": "43%",
+    "color": "#c37cf0"
+  },
+  {
+    "light_id": 659,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#4692ca"
+  },
+  {
+    "light_id": 660,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#98896e"
+  },
+  {
+    "light_id": 661,
+    "status": "off",
+    "brightness": "97%",
+    "color": "#6316fc"
+  },
+  {
+    "light_id": 662,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#5a3854"
+  },
+  {
+    "light_id": 663,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#703849"
+  },
+  {
+    "light_id": 664,
+    "status": "on",
+    "brightness": "98%",
+    "color": "#3a2950"
+  },
+  {
+    "light_id": 665,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#d2d6b5"
+  },
+  {
+    "light_id": 666,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#93a780"
+  },
+  {
+    "light_id": 667,
+    "status": "off",
+    "brightness": "19%",
+    "color": "#578090"
+  },
+  {
+    "light_id": 668,
+    "status": "on",
+    "brightness": "42%",
+    "color": "#3aa1b6"
+  },
+  {
+    "light_id": 669,
+    "status": "off",
+    "brightness": "43%",
+    "color": "#bbe66f"
+  },
+  {
+    "light_id": 670,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#dd0fab"
+  },
+  {
+    "light_id": 671,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#9bcd6c"
+  },
+  {
+    "light_id": 672,
+    "status": "off",
+    "brightness": "88%",
+    "color": "#b9f8b5"
+  },
+  {
+    "light_id": 673,
+    "status": "on",
+    "brightness": "42%",
+    "color": "#c5295a"
+  },
+  {
+    "light_id": 674,
+    "status": "off",
+    "brightness": "89%",
+    "color": "#cf5f6"
+  },
+  {
+    "light_id": 675,
+    "status": "off",
+    "brightness": "90%",
+    "color": "#153e05"
+  },
+  {
+    "light_id": 676,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#4daac5"
+  },
+  {
+    "light_id": 677,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#a820b3"
+  },
+  {
+    "light_id": 678,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#864ee0"
+  },
+  {
+    "light_id": 679,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#c17282"
+  },
+  {
+    "light_id": 680,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#abf262"
+  },
+  {
+    "light_id": 681,
+    "status": "on",
+    "brightness": "22%",
+    "color": "#dc4528"
+  },
+  {
+    "light_id": 682,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#fc5a7c"
+  },
+  {
+    "light_id": 683,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#7b9cd2"
+  },
+  {
+    "light_id": 684,
+    "status": "off",
+    "brightness": "57%",
+    "color": "#83f901"
+  },
+  {
+    "light_id": 685,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#877480"
+  },
+  {
+    "light_id": 686,
+    "status": "on",
+    "brightness": "16%",
+    "color": "#40783a"
+  },
+  {
+    "light_id": 687,
+    "status": "on",
+    "brightness": "66%",
+    "color": "#5ed357"
+  },
+  {
+    "light_id": 688,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#a4db0f"
+  },
+  {
+    "light_id": 689,
+    "status": "on",
+    "brightness": "35%",
+    "color": "#cd1227"
+  },
+  {
+    "light_id": 690,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#73daf7"
+  },
+  {
+    "light_id": 691,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#51501"
+  },
+  {
+    "light_id": 692,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#bdda40"
+  },
+  {
+    "light_id": 693,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#5c3e8e"
+  },
+  {
+    "light_id": 694,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#2ad259"
+  },
+  {
+    "light_id": 695,
+    "status": "off",
+    "brightness": "87%",
+    "color": "#80fce1"
+  },
+  {
+    "light_id": 696,
+    "status": "off",
+    "brightness": "94%",
+    "color": "#db275c"
+  },
+  {
+    "light_id": 697,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#55969a"
+  },
+  {
+    "light_id": 698,
+    "status": "on",
+    "brightness": "46%",
+    "color": "#362202"
+  },
+  {
+    "light_id": 699,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#1ee4ad"
+  },
+  {
+    "light_id": 700,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#55fde0"
+  },
+  {
+    "light_id": 701,
+    "status": "on",
+    "brightness": "17%",
+    "color": "#7428dc"
+  },
+  {
+    "light_id": 702,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#fdcd8"
+  },
+  {
+    "light_id": 703,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#7dc5d2"
+  },
+  {
+    "light_id": 704,
+    "status": "on",
+    "brightness": "36%",
+    "color": "#2c2b34"
+  },
+  {
+    "light_id": 705,
+    "status": "off",
+    "brightness": "15%",
+    "color": "#cd19d"
+  },
+  {
+    "light_id": 706,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#10dff2"
+  },
+  {
+    "light_id": 707,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#ca5e1a"
+  },
+  {
+    "light_id": 708,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#ba3e32"
+  },
+  {
+    "light_id": 709,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#438f3b"
+  },
+  {
+    "light_id": 710,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#b8d9a"
+  },
+  {
+    "light_id": 711,
+    "status": "off",
+    "brightness": "72%",
+    "color": "#a25a4e"
+  },
+  {
+    "light_id": 712,
+    "status": "off",
+    "brightness": "9%",
+    "color": "#ad799d"
+  },
+  {
+    "light_id": 713,
+    "status": "off",
+    "brightness": "56%",
+    "color": "#f083ee"
+  },
+  {
+    "light_id": 714,
+    "status": "off",
+    "brightness": "72%",
+    "color": "#ad482c"
+  },
+  {
+    "light_id": 715,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#970cb9"
+  },
+  {
+    "light_id": 716,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#f0fb80"
+  },
+  {
+    "light_id": 717,
+    "status": "off",
+    "brightness": "44%",
+    "color": "#f55085"
+  },
+  {
+    "light_id": 718,
+    "status": "on",
+    "brightness": "45%",
+    "color": "#f3304a"
+  },
+  {
+    "light_id": 719,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#94af6f"
+  },
+  {
+    "light_id": 720,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#b296c9"
+  },
+  {
+    "light_id": 721,
+    "status": "on",
+    "brightness": "16%",
+    "color": "#663d4"
+  },
+  {
+    "light_id": 722,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#40e45f"
+  },
+  {
+    "light_id": 723,
+    "status": "off",
+    "brightness": "8%",
+    "color": "#de80bb"
+  },
+  {
+    "light_id": 724,
+    "status": "off",
+    "brightness": "70%",
+    "color": "#fdeb84"
+  },
+  {
+    "light_id": 725,
+    "status": "on",
+    "brightness": "36%",
+    "color": "#d5809e"
+  },
+  {
+    "light_id": 726,
+    "status": "off",
+    "brightness": "74%",
+    "color": "#511d9b"
+  },
+  {
+    "light_id": 727,
+    "status": "off",
+    "brightness": "12%",
+    "color": "#f0cb39"
+  },
+  {
+    "light_id": 728,
+    "status": "on",
+    "brightness": "29%",
+    "color": "#44a0ba"
+  },
+  {
+    "light_id": 729,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#e3153e"
+  },
+  {
+    "light_id": 730,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#2ad789"
+  },
+  {
+    "light_id": 731,
+    "status": "off",
+    "brightness": "70%",
+    "color": "#91dc44"
+  },
+  {
+    "light_id": 732,
+    "status": "on",
+    "brightness": "58%",
+    "color": "#1b0fb1"
+  },
+  {
+    "light_id": 733,
+    "status": "off",
+    "brightness": "86%",
+    "color": "#f3cf38"
+  },
+  {
+    "light_id": 734,
+    "status": "off",
+    "brightness": "55%",
+    "color": "#fbdae2"
+  },
+  {
+    "light_id": 735,
+    "status": "on",
+    "brightness": "23%",
+    "color": "#b4ca44"
+  },
+  {
+    "light_id": 736,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#875908"
+  },
+  {
+    "light_id": 737,
+    "status": "on",
+    "brightness": "64%",
+    "color": "#63dd65"
+  },
+  {
+    "light_id": 738,
+    "status": "off",
+    "brightness": "67%",
+    "color": "#b63f0c"
+  },
+  {
+    "light_id": 739,
+    "status": "on",
+    "brightness": "46%",
+    "color": "#92a725"
+  },
+  {
+    "light_id": 740,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#c28a38"
+  },
+  {
+    "light_id": 741,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#ea0a5d"
+  },
+  {
+    "light_id": 742,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#50264b"
+  },
+  {
+    "light_id": 743,
+    "status": "off",
+    "brightness": "31%",
+    "color": "#929bd5"
+  },
+  {
+    "light_id": 744,
+    "status": "off",
+    "brightness": "0%",
+    "color": "#42fb2c"
+  },
+  {
+    "light_id": 745,
+    "status": "on",
+    "brightness": "45%",
+    "color": "#d9d1a"
+  },
+  {
+    "light_id": 746,
+    "status": "on",
+    "brightness": "28%",
+    "color": "#1ddd6e"
+  },
+  {
+    "light_id": 747,
+    "status": "on",
+    "brightness": "83%",
+    "color": "#8f1231"
+  },
+  {
+    "light_id": 748,
+    "status": "on",
+    "brightness": "17%",
+    "color": "#5333af"
+  },
+  {
+    "light_id": 749,
+    "status": "off",
+    "brightness": "88%",
+    "color": "#30edac"
+  },
+  {
+    "light_id": 750,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#e52f09"
+  },
+  {
+    "light_id": 751,
+    "status": "on",
+    "brightness": "80%",
+    "color": "#c64634"
+  },
+  {
+    "light_id": 752,
+    "status": "on",
+    "brightness": "15%",
+    "color": "#48e88"
+  },
+  {
+    "light_id": 753,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#3f609"
+  },
+  {
+    "light_id": 754,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#fd8bd0"
+  },
+  {
+    "light_id": 755,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#4cd2c9"
+  },
+  {
+    "light_id": 756,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#d7e1db"
+  },
+  {
+    "light_id": 757,
+    "status": "off",
+    "brightness": "49%",
+    "color": "#5d457b"
+  },
+  {
+    "light_id": 758,
+    "status": "off",
+    "brightness": "21%",
+    "color": "#ab1455"
+  },
+  {
+    "light_id": 759,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#78d9c1"
+  },
+  {
+    "light_id": 760,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#e5b400"
+  },
+  {
+    "light_id": 761,
+    "status": "off",
+    "brightness": "21%",
+    "color": "#aa835b"
+  },
+  {
+    "light_id": 762,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#39e5f7"
+  },
+  {
+    "light_id": 763,
+    "status": "on",
+    "brightness": "17%",
+    "color": "#535b2"
+  },
+  {
+    "light_id": 764,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#52a48"
+  },
+  {
+    "light_id": 765,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#3c0b3f"
+  },
+  {
+    "light_id": 766,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#c188e8"
+  },
+  {
+    "light_id": 767,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#48c362"
+  },
+  {
+    "light_id": 768,
+    "status": "off",
+    "brightness": "44%",
+    "color": "#fa1263"
+  },
+  {
+    "light_id": 769,
+    "status": "off",
+    "brightness": "95%",
+    "color": "#b31525"
+  },
+  {
+    "light_id": 770,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#5918b2"
+  },
+  {
+    "light_id": 771,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#b8336c"
+  },
+  {
+    "light_id": 772,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#e3ba26"
+  },
+  {
+    "light_id": 773,
+    "status": "off",
+    "brightness": "85%",
+    "color": "#661dec"
+  },
+  {
+    "light_id": 774,
+    "status": "off",
+    "brightness": "38%",
+    "color": "#cee32b"
+  },
+  {
+    "light_id": 775,
+    "status": "on",
+    "brightness": "52%",
+    "color": "#8914b4"
+  },
+  {
+    "light_id": 776,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#f0e0fa"
+  },
+  {
+    "light_id": 777,
+    "status": "on",
+    "brightness": "63%",
+    "color": "#1f7d23"
+  },
+  {
+    "light_id": 778,
+    "status": "off",
+    "brightness": "61%",
+    "color": "#3851c2"
+  },
+  {
+    "light_id": 779,
+    "status": "on",
+    "brightness": "78%",
+    "color": "#413f55"
+  },
+  {
+    "light_id": 780,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#ca838c"
+  },
+  {
+    "light_id": 781,
+    "status": "off",
+    "brightness": "72%",
+    "color": "#d4cfdc"
+  },
+  {
+    "light_id": 782,
+    "status": "off",
+    "brightness": "56%",
+    "color": "#fb7dc6"
+  },
+  {
+    "light_id": 783,
+    "status": "off",
+    "brightness": "10%",
+    "color": "#be1b92"
+  },
+  {
+    "light_id": 784,
+    "status": "off",
+    "brightness": "42%",
+    "color": "#2e0c87"
+  },
+  {
+    "light_id": 785,
+    "status": "off",
+    "brightness": "74%",
+    "color": "#b321e0"
+  },
+  {
+    "light_id": 786,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#368227"
+  },
+  {
+    "light_id": 787,
+    "status": "on",
+    "brightness": "15%",
+    "color": "#a2bc92"
+  },
+  {
+    "light_id": 788,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#27e6d9"
+  },
+  {
+    "light_id": 789,
+    "status": "on",
+    "brightness": "27%",
+    "color": "#f15e10"
+  },
+  {
+    "light_id": 790,
+    "status": "off",
+    "brightness": "80%",
+    "color": "#b9d33a"
+  },
+  {
+    "light_id": 791,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#f2e3ad"
+  },
+  {
+    "light_id": 792,
+    "status": "off",
+    "brightness": "29%",
+    "color": "#2340cb"
+  },
+  {
+    "light_id": 793,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#379f52"
+  },
+  {
+    "light_id": 794,
+    "status": "on",
+    "brightness": "92%",
+    "color": "#b7c2b"
+  },
+  {
+    "light_id": 795,
+    "status": "on",
+    "brightness": "62%",
+    "color": "#492273"
+  },
+  {
+    "light_id": 796,
+    "status": "off",
+    "brightness": "71%",
+    "color": "#380b4e"
+  },
+  {
+    "light_id": 797,
+    "status": "off",
+    "brightness": "27%",
+    "color": "#5a8a21"
+  },
+  {
+    "light_id": 798,
+    "status": "off",
+    "brightness": "60%",
+    "color": "#9c3402"
+  },
+  {
+    "light_id": 799,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#cc0702"
+  },
+  {
+    "light_id": 800,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#3fa846"
+  },
+  {
+    "light_id": 801,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#58a496"
+  },
+  {
+    "light_id": 802,
+    "status": "off",
+    "brightness": "14%",
+    "color": "#301a70"
+  },
+  {
+    "light_id": 803,
+    "status": "off",
+    "brightness": "90%",
+    "color": "#79ca56"
+  },
+  {
+    "light_id": 804,
+    "status": "on",
+    "brightness": "76%",
+    "color": "#977d0a"
+  },
+  {
+    "light_id": 805,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#8c62d6"
+  },
+  {
+    "light_id": 806,
+    "status": "off",
+    "brightness": "34%",
+    "color": "#81b99e"
+  },
+  {
+    "light_id": 807,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#a6dc9f"
+  },
+  {
+    "light_id": 808,
+    "status": "on",
+    "brightness": "3%",
+    "color": "#69b866"
+  },
+  {
+    "light_id": 809,
+    "status": "on",
+    "brightness": "82%",
+    "color": "#7890f7"
+  },
+  {
+    "light_id": 810,
+    "status": "off",
+    "brightness": "53%",
+    "color": "#e28d0e"
+  },
+  {
+    "light_id": 811,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#a20c59"
+  },
+  {
+    "light_id": 812,
+    "status": "off",
+    "brightness": "62%",
+    "color": "#e75b0c"
+  },
+  {
+    "light_id": 813,
+    "status": "off",
+    "brightness": "48%",
+    "color": "#8c6b98"
+  },
+  {
+    "light_id": 814,
+    "status": "on",
+    "brightness": "23%",
+    "color": "#9a4d6a"
+  },
+  {
+    "light_id": 815,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#1c1de5"
+  },
+  {
+    "light_id": 816,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#2d90b3"
+  },
+  {
+    "light_id": 817,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#f7e4a3"
+  },
+  {
+    "light_id": 818,
+    "status": "off",
+    "brightness": "90%",
+    "color": "#ea6e48"
+  },
+  {
+    "light_id": 819,
+    "status": "on",
+    "brightness": "95%",
+    "color": "#f4b637"
+  },
+  {
+    "light_id": 820,
+    "status": "on",
+    "brightness": "31%",
+    "color": "#5285a8"
+  },
+  {
+    "light_id": 821,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#77bdf5"
+  },
+  {
+    "light_id": 822,
+    "status": "on",
+    "brightness": "62%",
+    "color": "#2a4421"
+  },
+  {
+    "light_id": 823,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#47ba85"
+  },
+  {
+    "light_id": 824,
+    "status": "on",
+    "brightness": "67%",
+    "color": "#124be4"
+  },
+  {
+    "light_id": 825,
+    "status": "off",
+    "brightness": "42%",
+    "color": "#d910ca"
+  },
+  {
+    "light_id": 826,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#e76565"
+  },
+  {
+    "light_id": 827,
+    "status": "on",
+    "brightness": "45%",
+    "color": "#7f301d"
+  },
+  {
+    "light_id": 828,
+    "status": "on",
+    "brightness": "37%",
+    "color": "#4418e3"
+  },
+  {
+    "light_id": 829,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#1fabc3"
+  },
+  {
+    "light_id": 830,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#a27fb"
+  },
+  {
+    "light_id": 831,
+    "status": "on",
+    "brightness": "53%",
+    "color": "#44d971"
+  },
+  {
+    "light_id": 832,
+    "status": "off",
+    "brightness": "40%",
+    "color": "#4b32b"
+  },
+  {
+    "light_id": 833,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#5c016a"
+  },
+  {
+    "light_id": 834,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#798ddb"
+  },
+  {
+    "light_id": 835,
+    "status": "off",
+    "brightness": "72%",
+    "color": "#7469ec"
+  },
+  {
+    "light_id": 836,
+    "status": "off",
+    "brightness": "93%",
+    "color": "#c697a6"
+  },
+  {
+    "light_id": 837,
+    "status": "on",
+    "brightness": "95%",
+    "color": "#f6741f"
+  },
+  {
+    "light_id": 838,
+    "status": "off",
+    "brightness": "46%",
+    "color": "#e3ac5e"
+  },
+  {
+    "light_id": 839,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#eba644"
+  },
+  {
+    "light_id": 840,
+    "status": "off",
+    "brightness": "59%",
+    "color": "#c501e"
+  },
+  {
+    "light_id": 841,
+    "status": "on",
+    "brightness": "32%",
+    "color": "#2ac310"
+  },
+  {
+    "light_id": 842,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#ea1a5e"
+  },
+  {
+    "light_id": 843,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#51467c"
+  },
+  {
+    "light_id": 844,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#ef2939"
+  },
+  {
+    "light_id": 845,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#2b38ef"
+  },
+  {
+    "light_id": 846,
+    "status": "on",
+    "brightness": "69%",
+    "color": "#a97bb5"
+  },
+  {
+    "light_id": 847,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#ad6f32"
+  },
+  {
+    "light_id": 848,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#17466a"
+  },
+  {
+    "light_id": 849,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#a6a67f"
+  },
+  {
+    "light_id": 850,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#dbc45b"
+  },
+  {
+    "light_id": 851,
+    "status": "off",
+    "brightness": "18%",
+    "color": "#2d9e9c"
+  },
+  {
+    "light_id": 852,
+    "status": "on",
+    "brightness": "57%",
+    "color": "#ae3391"
+  },
+  {
+    "light_id": 853,
+    "status": "on",
+    "brightness": "95%",
+    "color": "#a487c9"
+  },
+  {
+    "light_id": 854,
+    "status": "on",
+    "brightness": "50%",
+    "color": "#34ac94"
+  },
+  {
+    "light_id": 855,
+    "status": "on",
+    "brightness": "7%",
+    "color": "#d57c6"
+  },
+  {
+    "light_id": 856,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#c69197"
+  },
+  {
+    "light_id": 857,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#1a067f"
+  },
+  {
+    "light_id": 858,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#b4c635"
+  },
+  {
+    "light_id": 859,
+    "status": "off",
+    "brightness": "86%",
+    "color": "#3183f6"
+  },
+  {
+    "light_id": 860,
+    "status": "off",
+    "brightness": "38%",
+    "color": "#a7b2d"
+  },
+  {
+    "light_id": 861,
+    "status": "off",
+    "brightness": "53%",
+    "color": "#b1304b"
+  },
+  {
+    "light_id": 862,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#c6dccd"
+  },
+  {
+    "light_id": 863,
+    "status": "off",
+    "brightness": "84%",
+    "color": "#2454ec"
+  },
+  {
+    "light_id": 864,
+    "status": "on",
+    "brightness": "7%",
+    "color": "#8b20be"
+  },
+  {
+    "light_id": 865,
+    "status": "on",
+    "brightness": "19%",
+    "color": "#39447e"
+  },
+  {
+    "light_id": 866,
+    "status": "on",
+    "brightness": "25%",
+    "color": "#ff654e"
+  },
+  {
+    "light_id": 867,
+    "status": "on",
+    "brightness": "90%",
+    "color": "#b4c285"
+  },
+  {
+    "light_id": 868,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#25904f"
+  },
+  {
+    "light_id": 869,
+    "status": "on",
+    "brightness": "25%",
+    "color": "#ec3b50"
+  },
+  {
+    "light_id": 870,
+    "status": "off",
+    "brightness": "38%",
+    "color": "#e26171"
+  },
+  {
+    "light_id": 871,
+    "status": "on",
+    "brightness": "5%",
+    "color": "#d836bc"
+  },
+  {
+    "light_id": 872,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#296cc9"
+  },
+  {
+    "light_id": 873,
+    "status": "on",
+    "brightness": "26%",
+    "color": "#c723d6"
+  },
+  {
+    "light_id": 874,
+    "status": "off",
+    "brightness": "5%",
+    "color": "#e9b2e9"
+  },
+  {
+    "light_id": 875,
+    "status": "on",
+    "brightness": "63%",
+    "color": "#1d126"
+  },
+  {
+    "light_id": 876,
+    "status": "off",
+    "brightness": "17%",
+    "color": "#99d93f"
+  },
+  {
+    "light_id": 877,
+    "status": "off",
+    "brightness": "75%",
+    "color": "#1a88ec"
+  },
+  {
+    "light_id": 878,
+    "status": "on",
+    "brightness": "32%",
+    "color": "#53a970"
+  },
+  {
+    "light_id": 879,
+    "status": "on",
+    "brightness": "58%",
+    "color": "#7703b6"
+  },
+  {
+    "light_id": 880,
+    "status": "off",
+    "brightness": "99%",
+    "color": "#c59e2d"
+  },
+  {
+    "light_id": 881,
+    "status": "off",
+    "brightness": "83%",
+    "color": "#ec982"
+  },
+  {
+    "light_id": 882,
+    "status": "off",
+    "brightness": "76%",
+    "color": "#311b32"
+  },
+  {
+    "light_id": 883,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#306f53"
+  },
+  {
+    "light_id": 884,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#aeec8d"
+  },
+  {
+    "light_id": 885,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#737a5c"
+  },
+  {
+    "light_id": 886,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#a3229e"
+  },
+  {
+    "light_id": 887,
+    "status": "off",
+    "brightness": "79%",
+    "color": "#bf46b0"
+  },
+  {
+    "light_id": 888,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#6073db"
+  },
+  {
+    "light_id": 889,
+    "status": "off",
+    "brightness": "8%",
+    "color": "#d1168a"
+  },
+  {
+    "light_id": 890,
+    "status": "off",
+    "brightness": "3%",
+    "color": "#6ac57c"
+  },
+  {
+    "light_id": 891,
+    "status": "off",
+    "brightness": "45%",
+    "color": "#d4d23"
+  },
+  {
+    "light_id": 892,
+    "status": "off",
+    "brightness": "7%",
+    "color": "#8d23d9"
+  },
+  {
+    "light_id": 893,
+    "status": "off",
+    "brightness": "65%",
+    "color": "#738816"
+  },
+  {
+    "light_id": 894,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#46298f"
+  },
+  {
+    "light_id": 895,
+    "status": "off",
+    "brightness": "89%",
+    "color": "#c632de"
+  },
+  {
+    "light_id": 896,
+    "status": "off",
+    "brightness": "24%",
+    "color": "#2551ba"
+  },
+  {
+    "light_id": 897,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#8053b1"
+  },
+  {
+    "light_id": 898,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#592b3b"
+  },
+  {
+    "light_id": 899,
+    "status": "on",
+    "brightness": "12%",
+    "color": "#7c1677"
+  },
+  {
+    "light_id": 900,
+    "status": "off",
+    "brightness": "1%",
+    "color": "#4e72dd"
+  },
+  {
+    "light_id": 901,
+    "status": "off",
+    "brightness": "0%",
+    "color": "#bfdeff"
+  },
+  {
+    "light_id": 902,
+    "status": "off",
+    "brightness": "82%",
+    "color": "#48090"
+  },
+  {
+    "light_id": 903,
+    "status": "on",
+    "brightness": "87%",
+    "color": "#264379"
+  },
+  {
+    "light_id": 904,
+    "status": "on",
+    "brightness": "79%",
+    "color": "#7b716c"
+  },
+  {
+    "light_id": 905,
+    "status": "on",
+    "brightness": "39%",
+    "color": "#eb9296"
+  },
+  {
+    "light_id": 906,
+    "status": "on",
+    "brightness": "18%",
+    "color": "#c0c0e5"
+  },
+  {
+    "light_id": 907,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#c397ab"
+  },
+  {
+    "light_id": 908,
+    "status": "on",
+    "brightness": "70%",
+    "color": "#17580b"
+  },
+  {
+    "light_id": 909,
+    "status": "on",
+    "brightness": "84%",
+    "color": "#b08ade"
+  },
+  {
+    "light_id": 910,
+    "status": "off",
+    "brightness": "23%",
+    "color": "#5d8fbd"
+  },
+  {
+    "light_id": 911,
+    "status": "on",
+    "brightness": "10%",
+    "color": "#435a93"
+  },
+  {
+    "light_id": 912,
+    "status": "off",
+    "brightness": "31%",
+    "color": "#59c997"
+  },
+  {
+    "light_id": 913,
+    "status": "off",
+    "brightness": "39%",
+    "color": "#abcedf"
+  },
+  {
+    "light_id": 914,
+    "status": "on",
+    "brightness": "19%",
+    "color": "#732f29"
+  },
+  {
+    "light_id": 915,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#aae7aa"
+  },
+  {
+    "light_id": 916,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#17030a"
+  },
+  {
+    "light_id": 917,
+    "status": "off",
+    "brightness": "51%",
+    "color": "#60b120"
+  },
+  {
+    "light_id": 918,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#41c6c4"
+  },
+  {
+    "light_id": 919,
+    "status": "off",
+    "brightness": "57%",
+    "color": "#67b47f"
+  },
+  {
+    "light_id": 920,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#673025"
+  },
+  {
+    "light_id": 921,
+    "status": "on",
+    "brightness": "75%",
+    "color": "#89f29"
+  },
+  {
+    "light_id": 922,
+    "status": "off",
+    "brightness": "75%",
+    "color": "#caa08a"
+  },
+  {
+    "light_id": 923,
+    "status": "off",
+    "brightness": "31%",
+    "color": "#523081"
+  },
+  {
+    "light_id": 924,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#b95848"
+  },
+  {
+    "light_id": 925,
+    "status": "off",
+    "brightness": "38%",
+    "color": "#ee4bd"
+  },
+  {
+    "light_id": 926,
+    "status": "on",
+    "brightness": "20%",
+    "color": "#f04a37"
+  },
+  {
+    "light_id": 927,
+    "status": "off",
+    "brightness": "7%",
+    "color": "#a50a21"
+  },
+  {
+    "light_id": 928,
+    "status": "on",
+    "brightness": "93%",
+    "color": "#7a30fc"
+  },
+  {
+    "light_id": 929,
+    "status": "off",
+    "brightness": "37%",
+    "color": "#6c2076"
+  },
+  {
+    "light_id": 930,
+    "status": "on",
+    "brightness": "84%",
+    "color": "#394d32"
+  },
+  {
+    "light_id": 931,
+    "status": "on",
+    "brightness": "46%",
+    "color": "#c6a63c"
+  },
+  {
+    "light_id": 932,
+    "status": "on",
+    "brightness": "56%",
+    "color": "#c8c4ab"
+  },
+  {
+    "light_id": 933,
+    "status": "off",
+    "brightness": "39%",
+    "color": "#4a1fb5"
+  },
+  {
+    "light_id": 934,
+    "status": "off",
+    "brightness": "63%",
+    "color": "#f9e124"
+  },
+  {
+    "light_id": 935,
+    "status": "off",
+    "brightness": "16%",
+    "color": "#6195df"
+  },
+  {
+    "light_id": 936,
+    "status": "on",
+    "brightness": "57%",
+    "color": "#b8ae3a"
+  },
+  {
+    "light_id": 937,
+    "status": "off",
+    "brightness": "8%",
+    "color": "#788a24"
+  },
+  {
+    "light_id": 938,
+    "status": "off",
+    "brightness": "22%",
+    "color": "#3986fd"
+  },
+  {
+    "light_id": 939,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#a8989"
+  },
+  {
+    "light_id": 940,
+    "status": "on",
+    "brightness": "98%",
+    "color": "#10ee07"
+  },
+  {
+    "light_id": 941,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#8af409"
+  },
+  {
+    "light_id": 942,
+    "status": "off",
+    "brightness": "78%",
+    "color": "#128604"
+  },
+  {
+    "light_id": 943,
+    "status": "on",
+    "brightness": "72%",
+    "color": "#7f6fb"
+  },
+  {
+    "light_id": 944,
+    "status": "on",
+    "brightness": "36%",
+    "color": "#521503"
+  },
+  {
+    "light_id": 945,
+    "status": "off",
+    "brightness": "58%",
+    "color": "#7c68b5"
+  },
+  {
+    "light_id": 946,
+    "status": "on",
+    "brightness": "34%",
+    "color": "#9564"
+  },
+  {
+    "light_id": 947,
+    "status": "off",
+    "brightness": "73%",
+    "color": "#c4acc9"
+  },
+  {
+    "light_id": 948,
+    "status": "off",
+    "brightness": "77%",
+    "color": "#67d5ee"
+  },
+  {
+    "light_id": 949,
+    "status": "off",
+    "brightness": "47%",
+    "color": "#638077"
+  },
+  {
+    "light_id": 950,
+    "status": "on",
+    "brightness": "97%",
+    "color": "#537066"
+  },
+  {
+    "light_id": 951,
+    "status": "off",
+    "brightness": "54%",
+    "color": "#1b445e"
+  },
+  {
+    "light_id": 952,
+    "status": "off",
+    "brightness": "32%",
+    "color": "#746ddb"
+  },
+  {
+    "light_id": 953,
+    "status": "on",
+    "brightness": "16%",
+    "color": "#ee6574"
+  },
+  {
+    "light_id": 954,
+    "status": "off",
+    "brightness": "92%",
+    "color": "#be510"
+  },
+  {
+    "light_id": 955,
+    "status": "on",
+    "brightness": "32%",
+    "color": "#2f6882"
+  },
+  {
+    "light_id": 956,
+    "status": "on",
+    "brightness": "58%",
+    "color": "#18ce8f"
+  },
+  {
+    "light_id": 957,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#60a23f"
+  },
+  {
+    "light_id": 958,
+    "status": "on",
+    "brightness": "67%",
+    "color": "#52b293"
+  },
+  {
+    "light_id": 959,
+    "status": "on",
+    "brightness": "41%",
+    "color": "#345a40"
+  },
+  {
+    "light_id": 960,
+    "status": "off",
+    "brightness": "47%",
+    "color": "#d1fc7"
+  },
+  {
+    "light_id": 961,
+    "status": "off",
+    "brightness": "28%",
+    "color": "#57f1b7"
+  },
+  {
+    "light_id": 962,
+    "status": "on",
+    "brightness": "94%",
+    "color": "#d05183"
+  },
+  {
+    "light_id": 963,
+    "status": "off",
+    "brightness": "36%",
+    "color": "#e72ceb"
+  },
+  {
+    "light_id": 964,
+    "status": "on",
+    "brightness": "0%",
+    "color": "#51fbac"
+  },
+  {
+    "light_id": 965,
+    "status": "on",
+    "brightness": "96%",
+    "color": "#c0c17d"
+  },
+  {
+    "light_id": 966,
+    "status": "on",
+    "brightness": "70%",
+    "color": "#cb675b"
+  },
+  {
+    "light_id": 967,
+    "status": "on",
+    "brightness": "48%",
+    "color": "#208b08"
+  },
+  {
+    "light_id": 968,
+    "status": "off",
+    "brightness": "41%",
+    "color": "#6b28db"
+  },
+  {
+    "light_id": 969,
+    "status": "on",
+    "brightness": "38%",
+    "color": "#d89408"
+  },
+  {
+    "light_id": 970,
+    "status": "on",
+    "brightness": "18%",
+    "color": "#edd7d7"
+  },
+  {
+    "light_id": 971,
+    "status": "off",
+    "brightness": "69%",
+    "color": "#7e9433"
+  },
+  {
+    "light_id": 972,
+    "status": "on",
+    "brightness": "77%",
+    "color": "#b34d4e"
+  },
+  {
+    "light_id": 973,
+    "status": "off",
+    "brightness": "6%",
+    "color": "#628fa5"
+  },
+  {
+    "light_id": 974,
+    "status": "off",
+    "brightness": "19%",
+    "color": "#de8077"
+  },
+  {
+    "light_id": 975,
+    "status": "off",
+    "brightness": "25%",
+    "color": "#143fb5"
+  },
+  {
+    "light_id": 976,
+    "status": "off",
+    "brightness": "64%",
+    "color": "#d86b2e"
+  },
+  {
+    "light_id": 977,
+    "status": "on",
+    "brightness": "61%",
+    "color": "#3c6678"
+  },
+  {
+    "light_id": 978,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#b33844"
+  },
+  {
+    "light_id": 979,
+    "status": "on",
+    "brightness": "74%",
+    "color": "#5589fe"
+  },
+  {
+    "light_id": 980,
+    "status": "on",
+    "brightness": "11%",
+    "color": "#b85c4"
+  },
+  {
+    "light_id": 981,
+    "status": "on",
+    "brightness": "51%",
+    "color": "#44560f"
+  },
+  {
+    "light_id": 982,
+    "status": "off",
+    "brightness": "83%",
+    "color": "#b8a75c"
+  },
+  {
+    "light_id": 983,
+    "status": "off",
+    "brightness": "4%",
+    "color": "#1ae0fb"
+  },
+  {
+    "light_id": 984,
+    "status": "off",
+    "brightness": "98%",
+    "color": "#e0158"
+  },
+  {
+    "light_id": 985,
+    "status": "on",
+    "brightness": "55%",
+    "color": "#a5fca5"
+  },
+  {
+    "light_id": 986,
+    "status": "on",
+    "brightness": "14%",
+    "color": "#b6352c"
+  },
+  {
+    "light_id": 987,
+    "status": "on",
+    "brightness": "15%",
+    "color": "#4cbf62"
+  },
+  {
+    "light_id": 988,
+    "status": "on",
+    "brightness": "86%",
+    "color": "#49df3b"
+  },
+  {
+    "light_id": 989,
+    "status": "on",
+    "brightness": "35%",
+    "color": "#22485a"
+  },
+  {
+    "light_id": 990,
+    "status": "off",
+    "brightness": "22%",
+    "color": "#2409ad"
+  },
+  {
+    "light_id": 991,
+    "status": "off",
+    "brightness": "33%",
+    "color": "#d224b3"
+  },
+  {
+    "light_id": 992,
+    "status": "on",
+    "brightness": "85%",
+    "color": "#9c030e"
+  },
+  {
+    "light_id": 993,
+    "status": "on",
+    "brightness": "33%",
+    "color": "#ec17ce"
+  },
+  {
+    "light_id": 994,
+    "status": "off",
+    "brightness": "50%",
+    "color": "#efaff2"
+  },
+  {
+    "light_id": 995,
+    "status": "on",
+    "brightness": "85%",
+    "color": "#19b9e9"
+  },
+  {
+    "light_id": 996,
+    "status": "off",
+    "brightness": "23%",
+    "color": "#43449b"
+  },
+  {
+    "light_id": 997,
+    "status": "on",
+    "brightness": "4%",
+    "color": "#ce9846"
+  },
+  {
+    "light_id": 998,
+    "status": "off",
+    "brightness": "13%",
+    "color": "#56a835"
+  },
+  {
+    "light_id": 999,
+    "status": "off",
+    "brightness": "90%",
+    "color": "#3a806e"
+  },
+  {
+    "light_id": 1000,
+    "status": "on",
+    "brightness": "43%",
+    "color": "#98646"
+  }
+]
