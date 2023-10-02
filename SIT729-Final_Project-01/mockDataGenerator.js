@@ -1,5 +1,3 @@
-// mockDataGenerator.js
-
 const fs = require('fs');
 
 function generateLightData(num) {
@@ -15,4 +13,4 @@ function generateLightData(num) {
     fs.writeFileSync('lights.json', JSON.stringify(lights, null, 2));
 }
 
-generateLightData(1000); // for 1000 lights
+generateLightData(1000); 

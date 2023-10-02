@@ -64,19 +64,19 @@
         <button onclick="generateMockLights()" class="btn">Generate Mock Lights</button>
         <br>
         <select id="floorSelect">
-            <!-- Assuming 10 floors -->
+            
             <option value="1">Floor 1</option>
             <option value="2">Floor 2</option>
-            <!-- ... -->
+            
             <option value="10">Floor 10</option>
         </select>
         <button onclick="viewLightsByFloor()" class="btn">View Lights By Floor</button>
         <br>
         <select id="roomSelect">
-            <!-- Assuming 10 rooms -->
+            
             <option value="Room 1">Room 1</option>
             <option value="Room 2">Room 2</option>
-            <!-- ... -->
+            
             <option value="Room 10">Room 10</option>
         </select>
         <button onclick="viewLightsByRoom()" class="btn">View Lights By Room</button>
@@ -95,7 +95,7 @@
             </tr>
         </thead>
         <tbody>
-            <!-- Filled dynamically using JavaScript -->
+            
         </tbody>
     </table>
 
@@ -105,7 +105,7 @@
                 method: 'POST'
             }).then(res => res.text()).then(data => {
                 alert(data);
-                location.reload(); // Reload the page to see the changes
+                location.reload(); 
             });
         }
 
@@ -129,13 +129,13 @@
                 method: 'PUT'
             }).then(res => res.text()).then(data => {
                 alert(data);
-                location.reload(); // Reload the page to see the changes
+                location.reload(); 
             });
         }
 
         function displayLights(lights) {
             const tbody = document.getElementById('lightTable').querySelector('tbody');
-            tbody.innerHTML = ''; // Clear previous data
+            tbody.innerHTML = ''; 
             lights.forEach(light => {
                 const row = document.createElement('tr');
                 row.innerHTML = `
